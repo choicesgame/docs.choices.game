@@ -1,7 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
-* [Public Docs](<README (1).md>)
+* [What's $CHOICE?](README.md)
 
 ## ⌛ Playing $CHOICES <a href="#play" id="play"></a>
 

@@ -4,9 +4,10 @@
 
 ## ⌛ Playing $CHOICES <a href="#play" id="play"></a>
 
-* [Creating your first project](play/creating-your-first-project.md)
-* [Creating your first task](play/creating-your-first-task.md)
-* [Advanced permissions](play/advanced-permissions.md)
+* [Joining ](play/joining.md)
+* [Learning to earn](play/learning-to-earn.md)
+* [Playing to earn](play/playing-to-earn.md)
+* [Tokenomics](play/tokenomics.md)
 
 ## 💰 DEFI
 
@@ -25,6 +26,8 @@
 
 * [Signs](astro/signs.md)
 * [Planets](astro/planets.md)
+* [Lunar Nodes](astro/lunar-nodes.md)
 * [Houses](astro/houses.md)
 * [Aspects](astro/aspects.md)
-* [Asteroids](astro/asteroids.md)
+* [Asteroids](astro/asteroids/README.md)
+  * [Chiron](astro/asteroids/chiron.md)

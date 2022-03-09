@@ -24,10 +24,15 @@
 
 ## 🪐 Astronomy <a href="#astro" id="astro"></a>
 
-* [Signs](astro/signs.md)
+* [Overview](astro/overview.md)
+* [Constelations](astro/constelations.md)
 * [Planets](astro/planets.md)
 * [Lunar Nodes](astro/lunar-nodes.md)
-* [Houses](astro/houses.md)
-* [Aspects](astro/aspects.md)
 * [Asteroids](astro/asteroids/README.md)
   * [Chiron](astro/asteroids/chiron.md)
+  * [Vesta](astro/asteroids/vesta.md)
+* [Houses](astro/houses.md)
+* [Aspects](astro/aspects/README.md)
+  * [Study Cases](astro/aspects/study-cases/README.md)
+    * [North Nodes conjunction](astro/aspects/study-cases/north-nodes-conjunction.md)
+    * [Saturn conjunction](astro/aspects/study-cases/saturn-conjunction.md)

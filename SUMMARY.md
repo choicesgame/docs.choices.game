@@ -31,6 +31,8 @@
 * [Indices](defi/indices.md)
 * [Rate Protocols](defi/rate-protocols.md)
 * [Oracles](defi/oracles.md)
+* [Bridges](defi/bridges/README.md)
+  * [References and resources](defi/bridges/references-and-resources.md)
 * [Security](defi/security/README.md)
   * [Flash loans](defi/security/flash-loans.md)
   * [References and projects](defi/security/references-and-projects.md)

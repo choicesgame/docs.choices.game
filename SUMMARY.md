@@ -27,8 +27,8 @@
 * [Indices](defi/indices.md)
 * [Rate Protocols](defi/rate-protocols.md)
 * [Oracles](defi/oracles.md)
-* [Flash loans](defi/flash-loans.md)
 * [Security](defi/security/README.md)
+  * [Flash loans](defi/security/flash-loans.md)
   * [References and projects](defi/security/references-and-projects.md)
 
 ## 🪐 Astronomy <a href="#astro" id="astro"></a>

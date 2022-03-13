@@ -2,11 +2,14 @@
 
 ## Yield Farms
 
+### Ethereum
+
+* [apy.finance](https://apy.finance)
+
 ### Multi-chain
 
-#### [Lido](https://app.anchorprotocol.com/mypage)
-
-* Lido lets users stake their assets for daily staking rewards. User can stake any amount of tokens - no minimum.
+* [Yearn.finance](https://yearn.finance/#/home)
+* [Lido](https://app.anchorprotocol.com/mypage): lets users stake their assets for daily staking rewards. User can stake any amount of tokens - no minimum.
 
 
 

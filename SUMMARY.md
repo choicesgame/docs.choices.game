@@ -12,6 +12,7 @@
 ## 💰 DEFI
 
 * [The future of finances](defi/introduction/README.md)
+  * [Crypto 101](defi/introduction/crypto-101.md)
   * [References and Projects](defi/introduction/references-and-projects.md)
 * [Yield Farming](defi/yield-farming/README.md)
   * [References and Projects](defi/yield-farming/references-and-projects.md)
@@ -20,9 +21,12 @@
   * [FRAX](defi/stablecoins/frax.md)
   * [References and projects](defi/stablecoins/references-and-projects.md)
 * [Airdrops](defi/airdrops.md)
-* [DEXes](defi/dexes/README.md)
-  * [References and projects](defi/dexes/references-and-projects.md)
-* [Derivatives](defi/derivatives.md)
+* [DEXs](defi/dexs/README.md)
+  * [References and projects](defi/dexs/references-and-projects.md)
+* [Lending](defi/lending/README.md)
+  * [Resources](defi/lending/resources.md)
+* [Derivatives](defi/derivatives/README.md)
+  * [References and Projects](defi/derivatives/references-and-projects.md)
 * [Insurance](defi/insurance.md)
 * [Indices](defi/indices.md)
 * [Rate Protocols](defi/rate-protocols.md)

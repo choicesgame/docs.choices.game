@@ -10,3 +10,10 @@
 
 * [Tornado Cash](https://tornado.cash)
 * [BitWarden](https://bitwarden.com)
+
+
+
+#### News&#x20;
+
+* [Rekt](https://rekt.news)
+*

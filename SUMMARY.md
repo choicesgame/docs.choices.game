@@ -55,3 +55,4 @@
   * [Study Cases](astro/aspects/study-cases/README.md)
     * [North Nodes conjunction](astro/aspects/study-cases/north-nodes-conjunction.md)
     * [Saturn conjunction](astro/aspects/study-cases/saturn-conjunction.md)
+* [Eclipses](astro/eclipses.md)

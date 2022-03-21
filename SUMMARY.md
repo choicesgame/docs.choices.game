@@ -8,6 +8,7 @@
 * [Learning to earn](play/learning-to-earn.md)
 * [Playing to earn](play/playing-to-earn.md)
 * [Tokenomics](play/tokenomics.md)
+* [Roadmap](play/roadmap.md)
 
 ## 💰 DEFI
 

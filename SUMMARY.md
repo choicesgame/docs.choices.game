@@ -9,6 +9,8 @@
 * [Playing to earn](play/playing-to-earn.md)
 * [Tokenomics](play/tokenomics.md)
 * [Roadmap](play/roadmap.md)
+* [The Astrologue game](play/the-astrologue-game.md)
+* [The Astrophysicist Game](play/the-astrophysicist-game.md)
 
 ## 💰 DEFI
 

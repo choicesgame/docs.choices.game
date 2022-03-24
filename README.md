@@ -1,6 +1,5 @@
-## Choices docs
+## 📚⏳ $CHOICES docs
 
 #### docs.choice.online
 
-⏳
 

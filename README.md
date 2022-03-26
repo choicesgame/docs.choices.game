@@ -1,5 +1,5 @@
 ## 📚⏳ $CHOICES docs
 
-#### docs.choice.online
+#### [docs.choice.online](https:/docs.choice.online)
 
 

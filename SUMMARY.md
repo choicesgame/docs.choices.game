@@ -23,6 +23,7 @@
 * [Initial DEX Offerings (IDO)](defi/initial-dex-offerings-ido.md)
 * [DEXs](defi/dexs/README.md)
   * [References and projects](defi/dexs/references-and-projects.md)
+  * [Arbitrage](defi/dexs/arbitrage.md)
 * [Airdrops](defi/airdrops.md)
 * [Lending](defi/lending/README.md)
   * [Resources](defi/lending/resources.md)

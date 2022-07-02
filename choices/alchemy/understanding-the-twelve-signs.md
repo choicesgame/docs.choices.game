@@ -1,2 +1,0 @@
-# Understanding the twelve signs
-

@@ -1,2 +1,0 @@
-# Understanding minor arcanas
-

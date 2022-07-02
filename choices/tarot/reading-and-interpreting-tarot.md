@@ -1,2 +1,0 @@
-# Reading and interpreting Tarot
-

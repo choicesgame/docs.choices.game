@@ -1,2 +1,2 @@
-# ♌ Astrology
+# 🖼 Astrology
 

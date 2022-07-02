@@ -1,4 +1,4 @@
-# The Astrologue game
+# The Planets
 
 The instant you were born you become a being in the world. A separated and functional entity that contains all the mechanic pieces necessary for existence.
 

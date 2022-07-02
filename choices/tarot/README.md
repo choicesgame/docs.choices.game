@@ -1,2 +1,3 @@
 # 🔎 Tarot
 
+## SOON 🖤

@@ -1,8 +1,10 @@
+---
+description: >-
+  Prediction markets are market created for participants to bet on the outcomes
+  of future events.
+---
+
 # Decentralized Prediction Markets
-
-Prediction markets are market created for participants to bet on the outcomes of future events.
-
-
 
 Decentralized prediction markets utilize blockchain technology to create prediction markets on anything.
 

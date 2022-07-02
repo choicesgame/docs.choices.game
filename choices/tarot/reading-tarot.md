@@ -1,2 +1,3 @@
 # Reading Tarot
 
+## SOON 🖤

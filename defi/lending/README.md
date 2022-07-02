@@ -1,6 +1,12 @@
+---
+description: >-
+  Using cryptocurrencies as collateral, you can borrow from protocols and
+  leverage upon it.
+---
+
 # Lending
 
-Using cryptocurrencies as collateral, you can borrow from protocols and leverage upon it.
+
 
 ### Compound
 

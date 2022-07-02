@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🖤 The Game of $CHOICES](README.md)
+
 ## ⏳ Is Free Will real? <a href="#choices" id="choices"></a>
 
-* [🔭 Astrophysics](README.md)
+* [🔭 Astrophysics](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)
   * [Elementary Particles](choices/astrophysics/elementary-particles.md)
   * [The Four Forces](choices/astrophysics/the-four-forces.md)
@@ -12,7 +14,19 @@
 * [🖼 Astrology](choices/astrology/README.md)
   * [Birth Charts](choices/astrology/birth-charts.md)
   * [The Houses](astro/houses.md)
-  * [The Constellations](astro/constelations.md)
+  * [The Constellations](choices/astrology/constelations/README.md)
+    * [1. Aries](choices/astrology/constelations/1.-aries.md)
+    * [2. Taurus](choices/astrology/constelations/2.-taurus.md)
+    * [3. Gemini](choices/astrology/constelations/3.-gemini.md)
+    * [4. Cancer](choices/astrology/constelations/4.-cancer.md)
+    * [5. Leo](choices/astrology/constelations/5.-leo.md)
+    * [6. Virgo](choices/astrology/constelations/6.-virgo.md)
+    * [7. Libra](choices/astrology/constelations/7.-libra.md)
+    * [8. Scorpio](choices/astrology/constelations/8.-scorpio.md)
+    * [9. Sagittarius](choices/astrology/constelations/9.-sagittarius.md)
+    * [10. Capricorn](choices/astrology/constelations/10.-capricorn.md)
+    * [11. Aquarius](choices/astrology/constelations/11.-aquarius.md)
+    * [12. Pisces](choices/astrology/constelations/12.-pisces.md)
   * [The Ascendant and the Midheaven](choices/astrology/the-ascendant-and-the-midheaven.md)
   * [The Planets](play/the-astrologue-game.md)
   * [Aspects](choices/astrology/aspects.md)
@@ -46,7 +60,7 @@
   * [The goals to level up and win](choices/whats-reality/the-goals-to-level-up-and-win.md)
   * [A theory for NPCs](choices/whats-reality/a-theory-for-npcs.md)
   * [Karma, destiny, and "bosses" to be defeated](choices/whats-reality/karma-destiny-and-bosses-to-be-defeated.md)
-  * [Is Free Will real?](choices/whats-reality/is-free-will-real.md)
+  * [Is Free Will Real?](choices/whats-reality/is-free-will-real.md)
   * [Why?](choices/whats-reality/why.md)
 
 ## ☠ Other Resources <a href="#resources" id="resources"></a>

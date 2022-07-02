@@ -2,7 +2,7 @@
 
 * [🖤 The Game of $CHOICES](README.md)
 
-## ⏳ Is Free Will real? <a href="#choices" id="choices"></a>
+## Is Free Will real? <a href="#choices" id="choices"></a>
 
 * [🔭 Astrophysics](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)
@@ -63,9 +63,9 @@
   * [Is Free Will Real?](choices/whats-reality/is-free-will-real.md)
   * [Why?](choices/whats-reality/why.md)
 
-## ☠ Other Resources <a href="#resources" id="resources"></a>
+## Other Resources <a href="#resources" id="resources"></a>
 
-* [⚔ Surviving a Dystopia](resources/surviving-a-dystopia/README.md)
+* [☠ Surviving a Dystopia](resources/surviving-a-dystopia/README.md)
   * [Living as a Nomad](resources/surviving-a-dystopia/living-as-a-nomad.md)
   * [Decentralized Finances](resources/surviving-a-dystopia/decentralized-finances/README.md)
     * [Crypto 101](defi/introduction/crypto-101.md)
@@ -91,3 +91,19 @@
       * [Data Aggregators](defi/data-aggregators.md)
   * [Computer security 101](resources/surviving-a-dystopia/computer-security-101/README.md)
     * [Web3 security](defi/security/README.md)
+
+## TRANSCRIPTS
+
+* [July 2022](transcripts/july-2022/README.md)
+  * [♈ Aries](transcripts/july-2022/aries.md)
+  * [♉ Taurus](transcripts/july-2022/taurus.md)
+  * [♊ Gemini](transcripts/july-2022/gemini.md)
+  * [♋ Cancer](transcripts/july-2022/cancer.md)
+  * [♌ Leo](transcripts/july-2022/leo.md)
+  * [♍ Virgo](transcripts/july-2022/virgo.md)
+  * [♎ Libra](transcripts/july-2022/libra.md)
+  * [♏ Scorpio](transcripts/july-2022/scorpio.md)
+  * [♐ Sagittarius](transcripts/july-2022/sagittarius.md)
+  * [♑ Capricorn](transcripts/july-2022/capricorn.md)
+  * [♒ Aquarius](transcripts/july-2022/aquarius.md)
+  * [♓ Pisces](transcripts/july-2022/pisces.md)

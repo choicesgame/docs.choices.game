@@ -46,6 +46,7 @@
   * [The goals to level up and win](choices/whats-reality/the-goals-to-level-up-and-win.md)
   * [A theory for NPCs](choices/whats-reality/a-theory-for-npcs.md)
   * [Karma, destiny, and "bosses" to be defeated](choices/whats-reality/karma-destiny-and-bosses-to-be-defeated.md)
+  * [Is Free Will real?](choices/whats-reality/is-free-will-real.md)
   * [Why?](choices/whats-reality/why.md)
 
 ## ☠ Other Resources <a href="#resources" id="resources"></a>

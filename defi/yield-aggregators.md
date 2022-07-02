@@ -1,13 +1,6 @@
----
-description: >-
-  Yield aggregators are born to serve the need of automating users' investment
-  strategies, sparing them the trouble of monitoring the market for the best
-  yield farms.
----
-
 # Yield Aggregators
 
-
+Yield aggregators are born to serve the need of automating users' investment strategies, sparing them the trouble of monitoring the market for the best yield farms.
 
 * Yearn Finance: funds are automatically shifted between dYdX, Aave, and Compound as interest rates change between these protocols. Vaults help users to claim liquidity mining rewards and sell the protocol's native tokens for the underlying assets.
 * Alpha Finance: introduced leveraged yield farming through their first product Alpha Homora, allowing users to use borrowed capital to increase their exposure in their yield farming activities. It acts as both a lending and yield aggregator protocol.

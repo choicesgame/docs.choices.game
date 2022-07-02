@@ -1,8 +1,6 @@
----
-description: Pursuit of price stability and the stability of financial markets.
----
-
 # Fixed Interest Rate Protocols
+
+Pursuit of price stability and the stability of financial markets.
 
 FIRPs are a new suite of protocols that are bound to become a staple in the DeFi scene.
 

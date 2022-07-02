@@ -1,12 +1,6 @@
----
-description: >-
-  DeFi protocols incentivize the provision of liquidity via liquidity mining
-  programs.
----
-
 # Liquidity Mining
 
-Liquidity mining refers to the reward program of giving out the protocol's native tokens in exchange for capital. These tokens usually come with governance rights and may have the possibility of accruing cash flows.
+DeFi protocols incentivize the provision of liquidity via liquidity mining program. Liquidity mining refers to the reward program of giving out the protocol's native tokens in exchange for capital. These tokens usually come with governance rights and may have the possibility of accruing cash flows.
 
 For example, Compound, a decentralized lending and borrowing protocol, gives out COMP tokens to lenders and borrowers to incentivize protocol activity.
 

@@ -1,3 +1,2 @@
-# ⏳ The Game of $CHOICES
+# 🔭 Astrophysics
 
-###

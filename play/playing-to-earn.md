@@ -1,2 +1,0 @@
-# Playing to earn
-

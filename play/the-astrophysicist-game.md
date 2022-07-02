@@ -1,2 +1,0 @@
-# The Astrophysicist Game
-

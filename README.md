@@ -1,5 +1,3 @@
-## 📚⏳ $CHOICES docs
+# ⏳ The Game of $CHOICES
 
-#### [docs.choice.online](https:/docs.choice.online)
-
-
+###

@@ -4,13 +4,13 @@ description: >-
   functional entity that now exists.
 ---
 
-# Birth Charts
+# Astrological Charts
 
 The very moment you left your mother's womb, the universe was in a unique instant, a combination of all celestial entities in specific positions that never existed before and cannot be reproduced again.&#x20;
 
 In this sense, every human is a unique configuration of attributes. Pretty much as when you are playing a videogame, and you need to choose your character's characteristics and properties from a very large set of possibilities.
 
-The moment you were born can be mapped and mathematically represented by an astrological chart.
+The moment you were born can be mapped and mathematically represented by an astrological chart (also known as the birth chart).
 
 
 
@@ -65,9 +65,9 @@ We discuss each house in detail on the next page, but here is a high-level summa
 
 
 
-Another interesting connection to other tools that describe the the hero's journey narrative, the birth chart can also be divided into the stages represented by Tarot cards:
+Another interesting connection to other tools that describe the hero's journey narrative: the birth chart can be divided into the stages represented by the Tarot cards:
 
 
 
-![The Tarot hero's journey narrative represented in the astrological chart.](../../.gitbook/assets/95ac90f041bc3e4be6586c280e272b93.png)
+![Tarot hero's journey narrative represented in the astrological chart.](../../.gitbook/assets/95ac90f041bc3e4be6586c280e272b93.png)
 

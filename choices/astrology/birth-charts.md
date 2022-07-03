@@ -63,3 +63,11 @@ We discuss each house in detail on the next page, but here is a high-level summa
 
 ![A high-level definition of what each area of the 12 houses represents in our lives.](../../.gitbook/assets/64d6d6f78eadd88066b7f584b5012f13.jpeg)
 
+
+
+Another interesting connection to other tools that describe the the hero's journey narrative, the birth chart can also be divided into the stages represented by Tarot cards:
+
+
+
+![The Tarot hero's journey narrative represented in the astrological chart.](../../.gitbook/assets/95ac90f041bc3e4be6586c280e272b93.png)
+

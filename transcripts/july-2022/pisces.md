@@ -20,7 +20,7 @@ description: General predictions for Pisces in July 2022
 | Sun/Mercury in Cancer 💣 Pluto in Capricorn | 07/19 | Cancer in 5th, Pluto in 11th   |
 | Sun in Leo                                  | 07/23 | 6th                            |
 | Venus in Cancer 🔲 Jupiter in Aries         | 07/24 | Venus in 5th, Jupiter in 2nd   |
-| Mercury in Cancer 🔲 Mars in Aries          | 07/26 | Mercury in 5th, Mars in 2nd    |
+| Mercury in Cancer 🔲 Mars in Taurus         | 07/26 | Mercury in 5th, Mars in 2nd    |
 | New moon in Leo                             | 07/28 | 6th                            |
 | Jupiter retrograde in Aries                 | 07/29 | 2nd                            |
 | Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 6th, Saturn in 12th |

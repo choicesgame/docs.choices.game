@@ -40,24 +40,20 @@ Keep in mind that the angle of your ascendant is important too, and we will disc
 
 Note that there is a symmetry between the house number and the narrative of each of the 12 zodiac signs. In the case of the first house, the house of self is represented by the ideals of Aries (so it is also called the **"House of Aries"**). These are how the houses are ruled:
 
-| House number | Ruler |       |
-| ------------ | ----- | ----- |
-| 1st house    | Aries | House |
-|              |       |       |
-|              |       |       |
-
-* &#x20;[Aries](https://astrostyle.com/astrology/zodiac-signs/aries-horoscope/)
-* 2nd house: [Taurus](https://astrostyle.com/astrology/zodiac-signs/taurus-horoscope/)
-* 3rd house: [Gemini](https://astrostyle.com/astrology/zodiac-signs/gemini-horoscope/)
-* 4th house: [Cancer](https://astrostyle.com/astrology/zodiac-signs/cancer-horoscope/)
-* 5th house: [Leo](https://astrostyle.com/astrology/zodiac-signs/leo-horoscope/)
-* 6th house: [Virgo](https://astrostyle.com/astrology/zodiac-signs/virgo/)
-* 7th house: [Libra](https://astrostyle.com/astrology/zodiac-signs/libra-horoscope/)
-* 8th house: [Scorpio](https://astrostyle.com/astrology/zodiac-signs/scorpio-horoscope/)
-* 9th house: [Sagittarius](https://astrostyle.com/astrology/zodiac-signs/sagittarius-horoscope/)
-* 10th house: [Capricorn](https://astrostyle.com/astrology/zodiac-signs/capricorn-horoscope/)
-* 11th house: [Aquarius](https://astrostyle.com/astrology/zodiac-signs/aquarius-horoscope/)
-* 12th house: [Pisces](https://astrostyle.com/astrology/zodiac-signs/pisces-horoscope/)
+| House number | Ruler       |       |
+| ------------ | ----------- | ----- |
+| 1st house    | Aries       | House |
+| 2nd house    | Taurus      |       |
+| 3rd house    | Gemini      |       |
+| 4th house    | Taurus      |       |
+| 5th house    | Leo         |       |
+| 6th house    | Virgo       |       |
+| 7th house    | Libra       |       |
+| 8th house    | Scorpio     |       |
+| 9th house    | Sagittarius |       |
+| 10th house   | Capricorn   |       |
+| 11th house   | Aquarius    |       |
+| 12th house   | Pisces      |       |
 
 
 

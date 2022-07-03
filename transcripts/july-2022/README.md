@@ -10,7 +10,7 @@ The list of transits happening in July can be seen below. To find how this influ
 
 
 
-![](<../../.gitbook/assets/Screen Shot 2022-07-02 at 5.15.49 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-07-02 at 5.16.36 PM (1).png>)
 
 ### Summary and meaning
 

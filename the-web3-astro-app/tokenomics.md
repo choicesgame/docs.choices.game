@@ -1,3 +1,3 @@
-# Tokenomics
+# 💰 Tokenomics
 
 ## SOON 🖤

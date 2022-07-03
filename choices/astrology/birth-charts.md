@@ -75,7 +75,9 @@ We discuss each house in detail in the next section, but here is a high-level su
 
 
 
-Another interesting connection to other tools that describe the hero's journey narrative: the birth chart can be divided into the stages represented by Tarot cards:
+
+
+<mark style="color:orange;">**Another interesting connection to other tools that describe the hero's journey narrative: the birth chart can be divided into the stages represented by Tarot cards:**</mark>
 
 
 

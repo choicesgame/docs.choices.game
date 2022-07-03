@@ -1,3 +1,3 @@
-# Living as a Nomad
+# Being a Nomad 101
 
 ## SOON 🖤

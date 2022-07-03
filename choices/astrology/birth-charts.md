@@ -63,7 +63,7 @@ There is a symmetry between the house number and the narrative of each of the 12
 | 9th house    | Sagittarius | House of Philosophy and Spirituality |
 | 10th house   | Capricorn   | House of Ambition and Legacy         |
 | 11th house   | Aquarius    | House of Friendship and Hopes        |
-| 12th house   | Pisces      | House of Secrets                     |
+| 12th house   | Pisces      | House of Secrets and Isolation       |
 
 
 

@@ -1,3 +1,3 @@
-# Computer security 101
+# Computer Security 101
 
 ## SOON 🖤

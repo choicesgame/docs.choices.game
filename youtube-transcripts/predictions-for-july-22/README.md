@@ -2,7 +2,7 @@
 description: Transcripts for astrological predictions for July 2022
 ---
 
-# July 2022
+# 1⃣ Predictions for July/22
 
 ## General overview
 

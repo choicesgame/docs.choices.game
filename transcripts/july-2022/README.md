@@ -12,6 +12,8 @@ The list of transits happening in July can be seen below. To find how this influ
 
 ![](<../../.gitbook/assets/Screen Shot 2022-07-02 at 5.16.36 PM (1).png>)
 
+###
+
 ### Summary and meaning
 
 | Transit                                     | Date  | Meaning                                                                  |
@@ -33,6 +35,8 @@ The list of transits happening in July can be seen below. To find how this influ
 | Jupiter retrograde in Aries                 | 07/29 | Rethinking the growth of Aries area in our chart                         |
 | Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | External situation will feel like impeding on our ability to communicate |
 | Mars 🖤 Uranus and North Node in Taurus     | 07/31 | Intense fire-y dramatic and surprising opportunities                     |
+
+
 
 
 

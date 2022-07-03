@@ -27,7 +27,7 @@ The moment you were born can be mapped and mathematically represented by an astr
 The 12 slices represent the 12 constellations in the Sky (and also the 12 signs of the zodiac). We know that the planets revolve around the Sun, but in astrology, we look at the projection of how the solar system and the main star constellations interplay with us on Earth. From our viewpoint on Earth, the Sun (and other Planets) appears to travel around the Earth, passing through each of the 12 zodiac signs.&#x20;
 
 {% hint style="info" %}
-In Astronomy, the Sun and the moon are obviously not planets (instead, a star, and a satellite). But in Astrology we use an adapted language, so that we "classify" every celestial object as "planet".
+In Astronomy, the Sun and the Moon are obviously not planets (instead, a star, and a satellite). But in Astrology, we use an adapted language so that we "classify" every celestial object as a "planet".
 {% endhint %}
 
 The birth chart represents our view of the Sky sliced into 12 sections of 30° degrees, with the whole circle measuring 360°. Each of these sections represents **"The 12 Houses":** the 12 areas related to the 12 functions of existing as a human being.&#x20;
@@ -40,7 +40,7 @@ The birth chart represents our view of the Sky sliced into 12 sections of 30° d
 
 The sign of your ascendant is defined by the sign on the horizon when you were born. It's the point where the Earth touches the Sky. That's why you need your exact time and location of birth to define your ascendant!
 
-<mark style="color:blue;">**The ascendant is not only defines the sign of your first house (or "The House of Self"), but also the sign of every house in your chart.**</mark>&#x20;
+<mark style="color:blue;">**The ascendant defines not only the sign of your first house (or "The House of Self"), but also the sign of every house in your chart.**</mark>&#x20;
 
 Keep in mind that the angle of your ascendant is important too, and we will discuss it more in the next pages.&#x20;
 

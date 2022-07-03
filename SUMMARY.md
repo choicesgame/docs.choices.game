@@ -12,7 +12,7 @@
   * [The Fundamental Constants](choices/astrophysics/the-fundamental-constants.md)
   * [Logic and Confirmation Bias](choices/astrophysics/logic-and-confirmation-bias.md)
 * [🖼 Astrology](choices/astrology/README.md)
-  * [The Birth Chart](choices/astrology/the-birth-chart.md)
+  * [The Birth Chart](choices/astrology/birth-charts.md)
   * [The Houses](astro/houses.md)
   * [The Constellations](choices/astrology/constelations/README.md)
     * [1. Aries](choices/astrology/constelations/1.-aries.md)

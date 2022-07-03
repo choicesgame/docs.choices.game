@@ -4,7 +4,7 @@ description: General predictions for Scorpio in July 2022
 
 # ♏ Scorpio
 
-### Summary for Taurus
+### Summary for Scorpio
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Scorpio in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

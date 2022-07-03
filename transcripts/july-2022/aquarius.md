@@ -4,7 +4,7 @@ description: General predictions for Aquarius in July 2022
 
 # ♒ Aquarius
 
-### Summary for Taurus
+### Summary for Aquarius
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Aquarius in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

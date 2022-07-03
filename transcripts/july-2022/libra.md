@@ -4,7 +4,7 @@ description: General predictions for Libra in July 2022
 
 # ♎ Libra
 
-### Summary for Taurus
+### Summary for Libra
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Libra in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

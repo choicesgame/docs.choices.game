@@ -4,7 +4,7 @@ description: General predictions for Pisces in July 2022
 
 # ♓ Pisces
 
-### Summary for Taurus
+### Summary for Pisces
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Pisces in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

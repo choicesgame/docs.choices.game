@@ -4,7 +4,7 @@ description: General predictions for Capricorn in July 2022
 
 # ♑ Capricorn
 
-### Summary for Taurus
+### Summary for Capricorn
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Capricorn in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

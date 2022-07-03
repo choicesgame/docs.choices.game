@@ -4,7 +4,7 @@ description: General predictions for Cancer in July 2022
 
 # ♋ Cancer
 
-### Summary for Taurus
+### Summary for Cancer
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |

@@ -4,7 +4,7 @@ description: General predictions for Sagittarius in July 2022
 
 # ♐ Sagittarius
 
-### Summary for Taurus
+### Summary for Sagittarius
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Sagittarius in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

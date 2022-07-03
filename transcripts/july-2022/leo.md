@@ -4,7 +4,7 @@ description: General predictions for Leo in July 2022
 
 # ♌ Leo
 
-### Summary for Taurus
+### Summary for Leo
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
@@ -39,3 +39,5 @@ description: General predictions for Leo in July 2022
 🔲 Square
 
 🔺 Trine
+
+💣 Opposition

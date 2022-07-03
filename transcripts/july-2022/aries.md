@@ -20,7 +20,7 @@ description: General predictions for Aries in July 2022
 | Sun/Mercury in Cancer 💣 Pluto in Capricorn | 07/19 | Discussions with family can lead to making important discussions in your career                                      | Cancer in 4th, Pluto in 10th   |
 | Sun in Leo                                  | 07/23 | Focus on dating and creativity                                                                                       | 5th                            |
 | Venus in Cancer 🔲 Jupiter in Aries         | 07/24 | Providing to family, doing something very given                                                                      | Venus in 4th, Jupiter in 1st   |
-| Mercury in Cancer 🔲 Mars in Aries          | 07/26 | Saying something to your family that can be aggressive                                                               | Mercury in 4th, Mars in 1st    |
+| Mercury in Cancer 🔲 Mars in Taurus         | 07/26 | Saying something to your family that can be aggressive                                                               | Mercury in 4th, Mars in 2nd    |
 | New moon in Leo                             | 07/28 | New beginning on creativity and play, inspiration                                                                    | 5th                            |
 | Jupiter retrograde in Aries                 | 07/29 | Rethinking the growth of your identity                                                                               | 1st                            |
 | Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Thoughts about a romantic partner or creativity could meet a harsh disapproval from friends or community             | Mercury in 5th, Saturn in 11th |

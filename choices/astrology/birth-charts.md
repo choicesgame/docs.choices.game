@@ -57,7 +57,7 @@ Note that there is a symmetry between the house number and the narrative of each
 
 
 
-We discuss each house in details in the next page, but here is a high-level summary of how this works:
+We discuss each house in detail on the next page, but here is a high-level summary of how this works:
 
 
 

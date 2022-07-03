@@ -4,7 +4,11 @@ description: General predictions for Virgo in July 2022
 
 # ♍ Virgo
 
-###
+
+
+![](../../.gitbook/assets/virgo.png)
+
+
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |

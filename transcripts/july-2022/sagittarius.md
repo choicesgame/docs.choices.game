@@ -4,7 +4,11 @@ description: General predictions for Sagittarius in July 2022
 
 # ♐ Sagittarius
 
-###
+
+
+![](../../.gitbook/assets/sagitarius.png)
+
+
 
 | Transit                                     | Date  | House                         |
 | ------------------------------------------- | ----- | ----------------------------- |
@@ -25,4 +29,8 @@ description: General predictions for Sagittarius in July 2022
 | Jupiter retrograde in Aries                 | 07/29 | 5th                           |
 | Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 9th, Saturn in 3rd |
 | Mars 🖤 Uranus and North Node in Taurus     | 07/31 | 3rd                           |
+
+
+
+
 

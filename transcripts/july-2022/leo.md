@@ -4,7 +4,11 @@ description: General predictions for Leo in July 2022
 
 # ♌ Leo
 
-###
+
+
+![](../../.gitbook/assets/leo.png)
+
+
 
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |

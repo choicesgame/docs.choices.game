@@ -12,7 +12,7 @@ In this sense, every human is a unique configuration of attributes!&#x20;
 
 Pretty much as when you are playing a videogame, and you need to choose your character's characteristics and properties from a very large set of possibilities.
 
-The moment you were born can be mapped and mathematically represented by an astrological chart, also known as the birth chart.
+The moment you were born can be mapped and mathematically represented by an astrological chart, also known as the **birth chart.**
 
 
 
@@ -22,7 +22,7 @@ The moment you were born can be mapped and mathematically represented by an astr
 
 ### The 12 sectors in the birth chart wheel
 
-Your birth chart represents the coordinates, or exact location, of your birth place: a two-dimensional representation of Earth at that moment.&#x20;
+Your birth chart represents the coordinates, or exact location, of your birth place: a two-dimensional representation of the Sky projected to Earth at that moment.&#x20;
 
 The 12 slices represent the 12 constellations in the Sky (and also the 12 signs of the zodiac). We know that the planets revolve around the Sun, but in astrology, we look at the projection of how the solar system and the main star constellations interplay with us on Earth. From our viewpoint on Earth, the Sun appears to travel around the Earth, passing through each of the 12 zodiac signs.&#x20;
 

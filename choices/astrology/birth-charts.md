@@ -6,9 +6,9 @@ description: >-
 
 # Birth Charts
 
-The very moment you leave your mother's womb, the universe was in a unique instant, a combination of all celestial entities in specific positions that never existed before and cannot be reproduced again.&#x20;
+The very moment you left your mother's womb, the universe was in a unique instant, a combination of all celestial entities in specific positions that never existed before and cannot be reproduced again.&#x20;
 
-In this sense, every human is a unique configuration of attributes. Pretty much as when you are playing videogame, and you need to choose your character's characteristics and properties from a very large set of possibilities.
+In this sense, every human is a unique configuration of attributes. Pretty much as when you are playing a videogame, and you need to choose your character's characteristics and properties from a very large set of possibilities.
 
 The moment you were born can be mapped and mathematically represented by an astrological chart.
 

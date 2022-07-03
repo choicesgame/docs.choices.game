@@ -4,13 +4,6 @@
 
 ## Is Free Will real? <a href="#choices" id="choices"></a>
 
-* [🔭 Astrophysics](choices/astrophysics/README.md)
-  * [Cosmology](choices/astrophysics/cosmology.md)
-  * [Elementary Particles](choices/astrophysics/elementary-particles.md)
-  * [The Four Forces](choices/astrophysics/the-four-forces.md)
-  * [Group Theory](choices/astrophysics/group-theory.md)
-  * [The Fundamental Constants](choices/astrophysics/the-fundamental-constants.md)
-  * [Logic and Confirmation Bias](choices/astrophysics/logic-and-confirmation-bias.md)
 * [🖼 Astrology](choices/astrology/README.md)
   * [The Birth Chart](choices/astrology/birth-charts.md)
   * [The Houses](astro/houses.md)
@@ -44,6 +37,13 @@
   * [The Hero's Journey](choices/astrology/the-heros-journey.md)
   * [Making Predictions](choices/astrology/making-predictions.md)
   * [Astrology in History](choices/astrology/astrology-in-history.md)
+* [🔭 Astrophysics](choices/astrophysics/README.md)
+  * [Cosmology](choices/astrophysics/cosmology.md)
+  * [Elementary Particles](choices/astrophysics/elementary-particles.md)
+  * [The Four Forces](choices/astrophysics/the-four-forces.md)
+  * [Group Theory](choices/astrophysics/group-theory.md)
+  * [The Fundamental Constants](choices/astrophysics/the-fundamental-constants.md)
+  * [Logic and Confirmation Bias](choices/astrophysics/logic-and-confirmation-bias.md)
 * [🔥 Alchemy](choices/alchemy/README.md)
   * [Energy](choices/alchemy/energy.md)
   * [The Four Elements](choices/alchemy/the-four-elements.md)

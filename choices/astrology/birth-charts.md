@@ -20,17 +20,25 @@ This moment can be mapped and mathematically represented by an astrological char
 
 ### The 12 sectors in the birth chart wheel
 
-The birth chart wheel is two-dimensional representation of Earth. The 12 slices represent the 12 constellations in the sky (and also the 12 signs of the zodiac). We know that the planets revolve around the Sun, but in astrology we look at the projection of how the solar system and the main star constellations interplay with us on Earth. From our viewpoint on Earth, the Sun appears to travel around the Earth, passing through each of the 12 zodiac signs.&#x20;
+Your birth chart represents the coordinates, or exact location, of your birth place: a two-dimensional representation of Earth at that moment. The 12 slices represent the 12 constellations in the sky (and also the 12 signs of the zodiac). We know that the planets revolve around the Sun, but in astrology we look at the projection of how the solar system and the main star constellations interplay with us on Earth. From our viewpoint on Earth, the Sun appears to travel around the Earth, passing through each of the 12 zodiac signs.&#x20;
 
 The birth chart represents our view of the sky sliced into 12 section of 30° degrees, with the whole circle measuring 360°. Each of these sections represents **"The 12 Houses":** the 12 different areas specific to the 12 functions of our life. In the Hero Journey's narrative, each area is one stage in the whole story, flowing counterclockwise and starting from the first house.
 
 
 
+
+
 ### The ascendant and the first house of self
 
-Your natal chart represents the coordinates, or exact location, of your birth place. The sign of your ascendant is defined by the sign in the horizon when you were born. The place where the Earth touches the Sky. That's why you need your exact time and location of birth to define your ascendant.
+The sign of your ascendant is defined by the sign in the horizon when you were born. The place where the Earth touches the Sky. That's why you need your exact time and location of birth to define your ascendant.
 
 The ascendant not only the sign of your first house or **"The House of Self"**, but also the sign of every house in your chart. Keep in mind that the angle of your ascendant is important too, and we will discuss in the future.&#x20;
 
 Note that there is a symmetry between the house number and the narrative of the each sign. In the case of the first house, the house of self is represented by the ideals of Aries (so this is also called the **"House of Aries"**).
+
+The next houses will follow the same logic as we discuss in the next session, but here is a high-level summary of how this works:
+
+
+
+![A high-level definition of what each areas the 12 houses represent in our lives.](../../.gitbook/assets/64d6d6f78eadd88066b7f584b5012f13.jpeg)
 

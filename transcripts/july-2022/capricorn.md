@@ -23,7 +23,7 @@ description: General predictions for Capricorn in July 2022
 | Mercury in Cancer 🔲 Mars in Taurus         | 07/26 | Mercury in 7th, Mars in 5th   |
 | New moon in Leo                             | 07/28 | 8th                           |
 | Jupiter retrograde in Aries                 | 07/29 | 4th                           |
-| Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 6th, Saturn in 2nd |
+| Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 8th, Saturn in 2nd |
 | Mars 🖤 Uranus and North Node in Taurus     | 07/31 | 3rd                           |
 
 

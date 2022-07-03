@@ -23,7 +23,7 @@ description: General predictions for Aquarius in July 2022
 | Mercury in Cancer 🔲 Mars in Taurus         | 07/26 | Mercury in 6th, Mars in 4th   |
 | New moon in Leo                             | 07/28 | 7th                           |
 | Jupiter retrograde in Aries                 | 07/29 | 3rd                           |
-| Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 5th, Saturn in 1st |
+| Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 7th, Saturn in 1st |
 | Mars 🖤 Uranus and North Node in Taurus     | 07/31 | 3rd                           |
 
 

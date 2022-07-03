@@ -9,7 +9,7 @@ description: General predictions for Leo in July 2022
 | Transit                                     | Date  | House                          |
 | ------------------------------------------- | ----- | ------------------------------ |
 | Mars in Aries 🔲 Pluto in Capricorn         | 07/01 | Mars in 9th, Pluto in 6th      |
-| Mars enters Taurus                          | 07/05 | 9th                            |
+| Mars enters Taurus                          | 07/05 | 10th                           |
 | Mercury enters Cancer                       | 07/05 | 12th                           |
 | Venus in Gemini 🔺 Saturn in Aquarius       | 07/11 | Venus in 11th, Aquarius in 7th |
 | Venus in Gemini 🔲 Neptune in Pisces        | 07/13 | Venus in 11th, Neptune in 8th  |

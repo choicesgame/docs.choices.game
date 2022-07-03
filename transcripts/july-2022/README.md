@@ -19,8 +19,8 @@ The list of transits happening in July can be seen below. To find how this influ
 | Transit                                     | Date  | Meaning                                                                  |
 | ------------------------------------------- | ----- | ------------------------------------------------------------------------ |
 | Mars in Aries 🔲 Pluto in Capricorn         | 07/01 | Ego vs. Manipulation power play dynamics                                 |
-| Mars enters Taurus                          | 07/02 | Mars in exile, slowing down                                              |
-| Mercury enters Cancer                       | 07/02 | Safe, indirect communication                                             |
+| Mars enters Taurus                          | 07/05 | Mars in exile, slowing down                                              |
+| Mercury enters Cancer                       | 07/05 | Safe, indirect communication                                             |
 | Venus in Gemini 🔺 Saturn in Aquarius       | 07/11 | Long term acting on values, delayed gratification                        |
 | Venus in Gemini 🔲 Neptune in Pisces        | 07/13 | Expanding of values, overloaded euphoria, for good or bad                |
 | Full moon in Capricorn                      | 07/13 | Celebration of an adult state of mind, growing up                        |

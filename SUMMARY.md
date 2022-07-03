@@ -64,6 +64,12 @@
   * [Is Free Will Real?](choices/whats-reality/is-free-will-real.md)
   * [Why?](choices/whats-reality/why.md)
 
+## THE WEB3 ASTRO APP
+
+* [Play Choices to Earn](the-web3-astro-app/play-choices-to-earn.md)
+* [Tokenomics](the-web3-astro-app/tokenomics.md)
+* [Roadmap](the-web3-astro-app/roadmap.md)
+
 ## Other Resources <a href="#resources" id="resources"></a>
 
 * [☠ Surviving a Dystopia](resources/surviving-a-dystopia/README.md)

@@ -8,9 +8,9 @@ description: Transcripts for astrological predictions for July 2022
 
 The list of transits happening in July can be seen below. To find how this influences in your personal chart, find the houses where these transits happen.
 
-![Transits happening in July.](<../../.gitbook/assets/Screen Shot 2022-07-02 at 4.45.10 PM.png>)
 
-###
+
+![](<../../.gitbook/assets/Screen Shot 2022-07-02 at 5.15.49 PM.png>)
 
 ### Summary and meaning
 
@@ -32,7 +32,7 @@ The list of transits happening in July can be seen below. To find how this influ
 | New moon in Leo                             | 07/28 | New beginning of creativity and play, inspiration                        |
 | Jupiter retrograde in Aries                 | 07/29 | Rethinking the growth of Aries area in our chart                         |
 | Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | External situation will feel like impeding on our ability to communicate |
-| Mars 🖤 Uranus in Taurus                    | 07/31 | Intense fire-y dramatic and surprising opportunities                     |
+| Mars 🖤 Uranus and North Node in Taurus     | 07/31 | Intense fire-y dramatic and surprising opportunities                     |
 
 
 

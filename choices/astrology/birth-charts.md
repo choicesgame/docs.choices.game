@@ -40,20 +40,20 @@ Keep in mind that the angle of your ascendant is important too, and we will disc
 
 Note that there is a symmetry between the house number and the narrative of each of the 12 zodiac signs. In the case of the first house, the house of self is represented by the ideals of Aries (so it is also called the **"House of Aries"**). These are how the houses are ruled:
 
-| House number | Ruler       |                               |
-| ------------ | ----------- | ----------------------------- |
-| 1st house    | Aries       | House of Self                 |
-| 2nd house    | Taurus      | House of Possessions          |
-| 3rd house    | Gemini      | House of Communication        |
-| 4th house    | Cancer      | House of Home                 |
-| 5th house    | Leo         | House of Pleasure             |
-| 6th house    | Virgo       | House of Service and Health   |
-| 7th house    | Libra       | House of Relationship         |
-| 8th house    | Scorpio     | House of Sex and Death        |
-| 9th house    | Sagittarius | House of Philosophy           |
-| 10th house   | Capricorn   | House of Ambition             |
-| 11th house   | Aquarius    | House of Friendship and Hopes |
-| 12th house   | Pisces      | House of Secrets              |
+| House number | Ruler       |                                      |
+| ------------ | ----------- | ------------------------------------ |
+| 1st house    | Aries       | House of Self                        |
+| 2nd house    | Taurus      | House of Possessions                 |
+| 3rd house    | Gemini      | House of Communication               |
+| 4th house    | Cancer      | House of Home and Roots              |
+| 5th house    | Leo         | House of Pleasure and Creation       |
+| 6th house    | Virgo       | House of Service and Health          |
+| 7th house    | Libra       | House of Relationships               |
+| 8th house    | Scorpio     | House of Sex and Death               |
+| 9th house    | Sagittarius | House of Philosophy and Spirituality |
+| 10th house   | Capricorn   | House of Ambition and Legacy         |
+| 11th house   | Aquarius    | House of Friendship and Hopes        |
+| 12th house   | Pisces      | House of Secrets                     |
 
 
 

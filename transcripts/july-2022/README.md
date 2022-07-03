@@ -24,8 +24,15 @@ The list of transits happening in July can be seen below. To find how this influ
 | Full moon in Capricorn                      | 07/13 | Celebration of an adult state of mind, growing up         |
 | Sun 🖤 Mercury in Cancer                    | 07/16 | Enlightening moment, wow moment, great realizations       |
 | Venus enters Cancer                         | 07/18 | Homey feelings, moody, slow                               |
-| Mercury enters Leo                          | 07/19 | Dramatic communication, firery communication, creation    |
-| Sun/Mercury in Cancer 💣 Pluto in Capricorn | 07/19 |                                                           |
+| Mercury enters Leo                          | 07/19 | Dramatic communication, fire-y communication, creation    |
+| Sun/Mercury in Cancer 💣 Pluto in Capricorn | 07/19 | Tense period, mental paranoia, walking on egg shells      |
+| Sun in Leo                                  | 07/23 | Leo Season! Sun in its home sign.                         |
+| Venus in Cancer 🔲 Jupiter in Aries         | 07/24 | Grateful, positive period                                 |
+| Mercury in Cancer 🔲 Mars in Aries          | 07/26 | A little tense, agressive communication.                  |
+| New moon in Leo                             | 07/28 | New beginning of creativity and play, inspiration         |
+| Jupiter retrograde in Aries                 | 07/29 |                                                           |
+
+###
 
 ### Legend
 

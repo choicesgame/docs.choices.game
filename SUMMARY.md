@@ -37,6 +37,7 @@
     * [Lilith](choices/astrology/asteroids/lilith.md)
     * [Chiron](astro/asteroids/chiron.md)
   * [Synastry](choices/astrology/synastry.md)
+  * [Retrogrades](choices/astrology/retrogrades.md)
   * [Eclipses](astro/eclipses.md)
   * [Lunar Nodes](choices/astrology/lunar-nodes.md)
   * [Astrocartography](choices/astrology/astrocartography.md)

@@ -4,7 +4,7 @@ description: General predictions for Gemini in July 2022
 
 # ♊ Gemini
 
-### Summary for Gemini
+###
 
 | Transit                                     | Date  | House                         |
 | ------------------------------------------- | ----- | ----------------------------- |
@@ -13,7 +13,7 @@ description: General predictions for Gemini in July 2022
 | Mercury enters Cancer                       | 07/05 | 2nd                           |
 | Venus in Gemini 🔺 Saturn in Aquarius       | 07/11 | Venus in 1st, Aquarius in 9th |
 | Venus in Gemini 🔲 Neptune in Pisces        | 07/13 | Venus in 1st, Neptune in 10th |
-| Full moon in Capricorn                      | 07/13 | 8th                           |
+|  🌕 in Capricorn                            | 07/13 | 8th                           |
 | Sun 🖤 Mercury in Cancer                    | 07/16 | 2nd                           |
 | Venus enters Cancer                         | 07/18 | 2nd                           |
 | Mercury enters Leo                          | 07/19 | 3rd                           |
@@ -21,24 +21,10 @@ description: General predictions for Gemini in July 2022
 | Sun in Leo                                  | 07/23 | 3rd                           |
 | Venus in Cancer 🔲 Jupiter in Aries         | 07/24 | Venus in 2nd, Jupiter in 11th |
 | Mercury in Cancer 🔲 Mars in Taurus         | 07/26 | Mercury in 2nd, Mars in 12th  |
-| New moon in Leo                             | 07/28 | 3rd                           |
+| 🌑 in Leo                                   | 07/28 | 3rd                           |
 | Jupiter retrograde in Aries                 | 07/29 | 11th                          |
 | Mercury in Leo 💣 Saturn in Aquarius        | 07/31 | Mercury in 3rd, Saturn in 9th |
 | Mars 🖤 Uranus and North Node in Taurus     | 07/31 | 12th                          |
 
 
-
-
-
-### Legend
-
-
-
-🖤 Conjunction
-
-🔲 Square
-
-🔺 Trine
-
-💣 Opposition
 

@@ -34,7 +34,7 @@
   * [Eclipses](astro/eclipses.md)
   * [Lunar Nodes](choices/astrology/lunar-nodes.md)
   * [Astrocartography](choices/astrology/astrocartography.md)
-  * [The Hero's Journey](choices/astrology/the-heros-journey.md)
+  * [The Hero's Journey Archetypes](choices/astrology/the-heros-journey-archetypes.md)
   * [Making Predictions](choices/astrology/making-predictions.md)
   * [Astrology in History](choices/astrology/astrology-in-history.md)
 * [🔭 Astrophysics](choices/astrophysics/README.md)

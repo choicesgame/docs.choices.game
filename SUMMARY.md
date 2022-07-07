@@ -55,6 +55,8 @@
   * [The Spreads](choices/tarot/the-spreads.md)
   * [Reading Tarot](choices/tarot/reading-tarot.md)
   * [Tarot in History](choices/tarot/tarot-in-history.md)
+* [💻 Computer Science](choices/computer-science/README.md)
+  * [What's a Simulation?](choices/computer-science/whats-a-simulation.md)
 * [✨ What's Reality?](choices/whats-reality/README.md)
   * [Reality as a Quantum Simulation](choices/whats-reality/reality-as-a-quantum-simulation.md)
   * [The character and the team you play](choices/whats-reality/the-character-and-the-team-you-play.md)
@@ -100,7 +102,7 @@
 
 ## Youtube TRANSCRIPTS
 
-* [1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
+* [1⃣ 1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
   * [♈ Aries](youtube-transcripts/predictions-for-july-22/aries.md)
   * [♉ Taurus](youtube-transcripts/predictions-for-july-22/taurus.md)
   * [♊ Gemini](youtube-transcripts/predictions-for-july-22/gemini.md)

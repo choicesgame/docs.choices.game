@@ -6,7 +6,7 @@ description: △ Iter △
 
 The ninth house, ruled by Sagittarius, is concerned with all types of physical or mental expansion and your ability to see the big picture.
 
-
+![](../../../.gitbook/assets/sag.png)
 
 ### Topics of this house
 

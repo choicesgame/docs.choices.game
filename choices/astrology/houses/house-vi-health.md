@@ -6,7 +6,7 @@ description: 🜃 Valetudo 🜃
 
 The sixth house, ruled by Virgo, determines how you organize your routine, how you take care of your health, and your attitude towards service to others.
 
-
+![](../../../.gitbook/assets/virgo.png)
 
 ### Topics of this house
 

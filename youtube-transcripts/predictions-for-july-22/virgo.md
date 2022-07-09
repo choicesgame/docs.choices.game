@@ -4,7 +4,7 @@ description: General predictions for Virgo in July 2022
 
 # ♍ Virgo
 
-![](../../.gitbook/assets/virgo.png)
+![](<../../.gitbook/assets/virgo (1).png>)
 
 
 

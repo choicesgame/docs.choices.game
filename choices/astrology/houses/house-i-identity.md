@@ -10,7 +10,7 @@ The first house describes what is in your mind and body: your appearance, person
 
 In the Simulation theory, which is one of the main subjects of this channel, we believe that your rising sign (aka, the sign in your first house) is the avatar you came in and the team you are playing for. So, for example, if I am Aquarius rising, I not only play for Aquarius, but I also see each of the 11th houses under the lenses of Aquarius.
 
-
+![](../../../.gitbook/assets/aries.png)
 
 ### Topics of this house
 

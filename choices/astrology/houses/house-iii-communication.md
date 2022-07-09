@@ -6,7 +6,7 @@ description: 🜁 Frates 🜁
 
 The third house, ruled by Gemini, determines how you express yourself and move through the world.
 
-
+![](../../../.gitbook/assets/gemini.png)
 
 ### Topics of this house
 

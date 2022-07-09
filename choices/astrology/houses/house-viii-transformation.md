@@ -6,7 +6,7 @@ description: 🜄 Mors 🜄
 
 The eighth house, ruled by Scorpio, is concerned with sex and transformation and shared resources that you benefit from.
 
-
+![](<../../../.gitbook/assets/scorpio (1).png>)
 
 ### Topics of this house
 

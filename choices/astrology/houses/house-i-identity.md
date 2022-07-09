@@ -1,12 +1,8 @@
 ---
-description: The house of Aries.
+description: △ Vita △
 ---
 
-# House I: House of Identity
-
-> &#x20;<mark style="color:red;">△</mark> _<mark style="color:red;">**Vita**</mark>_ <mark style="color:red;"></mark><mark style="color:red;">△</mark>
-
-
+# House I: Identity
 
 The first house, ruled by Aries, is the only house that is 100% about you you you. This is the house containing your rising sign, starting on the eastern horizon, where the sky meets the Earth.
 
@@ -17,8 +13,6 @@ In the Simulation theory, which is one of the main subjects of this channel, we 
 
 
 ### Topics of this house
-
-Either if you are analyzing your Natal chart, or whenever there are transits in this house, or even when you are researching some synastry, these are the themes of this house:
 
 * Self, the body, appearances
 * First impressions

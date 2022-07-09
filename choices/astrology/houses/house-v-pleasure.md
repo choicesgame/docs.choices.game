@@ -4,7 +4,7 @@ description: △ Nati △
 
 # House V: Pleasure
 
-The fifth house, ruled by Leo.
+The fifth house, ruled by Leo, governs creativity, self-expression, the game of chances, and the joy you share with the world.
 
 
 

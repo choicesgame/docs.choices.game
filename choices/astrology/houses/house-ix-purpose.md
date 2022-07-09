@@ -4,7 +4,7 @@ description: △ Iter △
 
 # House IX: Purpose
 
-The ninth house, ruled by sagittarius.
+The ninth house, ruled by Sagittarius, is concerned with all types of physical or mental expansion and your ability to see the big picture.
 
 
 

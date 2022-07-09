@@ -4,7 +4,7 @@ description: 🜁 Benefact 🜁
 
 # House XI: Blessings
 
-The eleventh house, ruled by Aquarius.
+The eleventh house, ruled by Aquarius, governs networking, social justice, and community - how we want to change the world.
 
 
 

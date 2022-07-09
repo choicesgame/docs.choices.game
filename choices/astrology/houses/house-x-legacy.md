@@ -4,7 +4,7 @@ description: 🜃 Lucrum 🜃
 
 # House X: Legacy
 
-The tenth house, ruled by Capricorn.
+The tenth house or midheaven, ruled by Capricorn, governs your public image. It's the highest point in a chart, and indicates one's career, legacy, and ultimate purpose.
 
 
 

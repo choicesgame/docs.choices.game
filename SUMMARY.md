@@ -18,7 +18,7 @@
     * [House IX: Purpose](choices/astrology/houses/house-ix-purpose.md)
     * [House X: Legacy](choices/astrology/houses/house-x-legacy.md)
     * [House XI: Blessings](choices/astrology/houses/house-xi-blessings.md)
-    * [XII: Undoing](choices/astrology/houses/xii-undoing.md)
+    * [House XII: Undoing](choices/astrology/houses/house-xii-undoing.md)
   * [The Constellations](choices/astrology/constelations/README.md)
     * [1. Aries](choices/astrology/constelations/1.-aries.md)
     * [2. Taurus](choices/astrology/constelations/2.-taurus.md)

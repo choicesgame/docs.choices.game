@@ -4,7 +4,7 @@ description: 🜄 Genitor 🜄
 
 # House IV: Home and Family
 
-The fourth house, ruled by Cancer.
+The fourth house, ruled by Cancer, is associated with family, ancestry, traditions, the home you come from and the home you make for yourself.
 
 
 

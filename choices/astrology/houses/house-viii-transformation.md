@@ -4,7 +4,7 @@ description: 🜄 Mors 🜄
 
 # House VIII: Transformation
 
-The eight house, ruled by Scorpio.
+The eighth house, ruled by Scorpio, is concerned with sex and transformation and shared resources that you benefit from.
 
 
 

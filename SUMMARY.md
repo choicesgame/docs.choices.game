@@ -6,7 +6,8 @@
 
 * [🖼 Astrology](choices/astrology/README.md)
   * [The Birth Chart](choices/astrology/birth-charts.md)
-  * [The Houses](astro/houses.md)
+  * [The Houses](choices/astrology/houses/README.md)
+    * [House I: House of Identity](choices/astrology/houses/house-i-house-of-identity.md)
   * [The Constellations](choices/astrology/constelations/README.md)
     * [1. Aries](choices/astrology/constelations/1.-aries.md)
     * [2. Taurus](choices/astrology/constelations/2.-taurus.md)

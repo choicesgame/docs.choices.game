@@ -13,8 +13,8 @@ The fourth house, ruled by Cancer, is associated with family, ancestry, traditio
 * Ancestry, heritage, roots
 * Foundations and environment
 * Mother or caretaker
-* Housing or household
-* Comfort, security
+* Housing, household, real state
+* Comfort, security, nurturing
 
 
 

@@ -15,7 +15,8 @@ The sixth house, ruled by Virgo, determines how you organize your routine, how y
 * Employment and co-workers
 * Service performed for others
 * Strength and vitality
-* Wellness and healthcare
+* Pets and small animals
+* Wellness, self-care, and healthcare
 
 
 

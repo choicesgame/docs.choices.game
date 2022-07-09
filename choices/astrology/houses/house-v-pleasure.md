@@ -13,7 +13,7 @@ The fifth house, ruled by Leo, governs creativity, self-expression, the game of 
 * Recreational and leisure activities
 * Fun, enjoyment, pleasure
 * Gambling, games
-* Romance
+* Romance, orgasm
 * Children and fertility
 * Creative self-expression
 

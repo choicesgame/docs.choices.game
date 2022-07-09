@@ -12,8 +12,8 @@ The tenth house or midheaven, ruled by Capricorn, governs your public image. It'
 
 * Entreprise, ambitions, motivations
 * Career, achievements
-* Society, government, authority
-* Notoriety, one's legacy
+* Society, government, authority, your boss
+* Notoriety, one's legacy, fame
 
 
 

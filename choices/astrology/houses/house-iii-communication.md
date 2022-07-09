@@ -16,6 +16,7 @@ The third house, ruled by Gemini, determines how you express yourself and move t
 * Distribution, generosity
 * Siblings
 * Short trips and quick transportation
+* How you get your news
 
 
 

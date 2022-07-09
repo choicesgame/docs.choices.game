@@ -10,9 +10,9 @@ The eighth house, ruled by Scorpio, is concerned with sex and transformation and
 
 ### Topics of this house
 
-* Cycles of death and rebirth
+* Cycles of death and rebirth, makeover
 * Sexual relationships and commitments of all kinds
-* Joint funds, finances
+* Joint funds, finances, taxes, debts
 * Other people's resource
 * Karma, debt, judgement
 * Regeneration and self-transformation

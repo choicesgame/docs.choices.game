@@ -11,6 +11,7 @@ The seventh house, ruled by Libra, concerns any type of one-to-one relationships
 ### Topics of this house
 
 * Marriage and business matters
+* Where you find love and face challenges together
 * Partnerships
 * Diplomacy
 * Contracts and agreements

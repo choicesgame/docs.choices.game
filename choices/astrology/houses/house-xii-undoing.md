@@ -11,11 +11,12 @@ The twelfth house, ruled by Pisces, is the last and most enigmatic house. This h
 ### Topics of this house
 
 * Isolation, privacy, seclusion
+* Dreams, secrets, emotions, subconscious
 * Intuition, psychic things
 * Abundance, additions
 * Luck, miracles
 * Healing, cleansing, forgiveness
-* Finality, completion, conclusion
+* Finality, completion, conclusion, surrender
 
 
 

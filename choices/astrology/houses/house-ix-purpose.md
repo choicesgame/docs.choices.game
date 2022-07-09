@@ -10,7 +10,7 @@ The ninth house, ruled by Sagittarius, is concerned with all types of physical o
 
 ### Topics of this house
 
-* Travel and foreign affairs
+* Travel and foreign affairs and traveling
 * Culture, expansion, high learning
 * Philosophical interests, belief system, PhDs
 * Experience through exploration

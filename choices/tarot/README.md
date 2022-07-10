@@ -1,2 +1,3 @@
-# 🔎 Tarot Theory
+# 🔎 Tarot
 
+## SOON 🖤

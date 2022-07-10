@@ -1,3 +1,3 @@
-# The Hero's Journey Archetypes
+# The Hero's Journey
 
 ## SOON 🖤

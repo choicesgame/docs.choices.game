@@ -51,7 +51,7 @@
   * [Astrology in History](choices/astrology/astrology-in-history.md)
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)
   * [What's the Hero Journey?](choices/storytelling-theory/whats-the-hero-journey.md)
-  * [In Film Theory](choices/storytelling-theory/in-film-theory.md)
+  * [Storytelling in Film Theory](choices/storytelling-theory/storytelling-in-film-theory.md)
 * [🔭 Astrophysics Science](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)
   * [Elementary Particles](choices/astrophysics/elementary-particles.md)

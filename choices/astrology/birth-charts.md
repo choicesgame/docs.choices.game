@@ -6,7 +6,7 @@ description: >-
 
 # The Birth Chart
 
-_<mark style="color:purple;">**The very moment you left your mother's womb, the universe was in a unique state, a combination of every celestial object in a specific position that never existed before and cannot be reproduced again.**</mark>_&#x20;
+### _<mark style="color:purple;">**The very moment you left your mother's womb, the universe was in a unique state, a combination of every celestial object in a specific position that never existed before and cannot be reproduced again.**</mark>_&#x20;
 
 In this sense, every human is a unique configuration of attributes!&#x20;
 

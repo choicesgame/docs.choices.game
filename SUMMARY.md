@@ -46,7 +46,7 @@
   * [Eclipses](astro/eclipses.md)
   * [Lunar Nodes](choices/astrology/lunar-nodes.md)
   * [Astrocartography](choices/astrology/astrocartography.md)
-  * [Making Predictions](choices/astrology/making-predictions/README.md)
+  * [Making Predictions](choices/astrology/making-predictions.md)
     * [Predicting Kurt Cobain's Life and Death](choices/astrology/making-predictions/predicting-kurt-cobains-life-and-death.md)
   * [Astrology in History](choices/astrology/astrology-in-history.md)
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)

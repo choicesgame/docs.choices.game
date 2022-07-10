@@ -1,7 +1,21 @@
 # The 12 Hero's Stages
 
-## The Ordinary World
+## 1. The Call to Adventure with The Fool
 
 
 
-## The Call to Adventure
+## 2. Accepting the Call with the Magician
+
+
+
+## 3. The Refusal of the Call
+
+
+
+## 4. Meeting the mentor
+
+
+
+
+
+## 5.

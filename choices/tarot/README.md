@@ -1,3 +1,6 @@
-# 🔎 Tarot
+---
+description: Master your journey.
+---
 
-## SOON 🖤
+# 🔎 Tarot Theory
+

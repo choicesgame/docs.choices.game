@@ -1,3 +1,6 @@
-# 🔭 Astrophysics
+---
+description: Predicting thing precisely with math.
+---
 
-## SOON 🖤
+# 🔭 Astrophysics Science
+

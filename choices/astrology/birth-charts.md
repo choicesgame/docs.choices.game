@@ -34,7 +34,7 @@ The birth chart represents our view of the Sky sliced into 12 sections of 30° d
 
 <mark style="color:orange;">**In the hero's journey narrative, each of these 12 sectors is one phase in the whole story, flowing counterclockwise and starting from the first house.**</mark>
 
-<mark style="color:orange;">****</mark>
+A fun way to think about a birth chart is: _"You are the God of your story; Planets are the performers; Houses are the chapters of this journey; and the signs are the costumes, the styles, the filters, you run it."_ You can think of Tarot as the street map of your life and birth charts as the satellite view for the larger picture
 
 ### The ascendant and the first house of self
 

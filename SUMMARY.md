@@ -50,7 +50,7 @@
   * [Astrology in History](choices/astrology/astrology-in-history.md)
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)
   * [What's the Hero Journey?](choices/storytelling-theory/whats-the-hero-journey.md)
-  * [The 12 Hero's Stages](choices/astrology/the-heros-journey-archetypes.md)
+  * [The 12 Hero's Archetypes](choices/astrology/the-heros-journey-archetypes.md)
   * [0. The call to adventure](choices/storytelling-theory/0.-the-call-to-adventure.md)
   * [1. The realization of the external self](choices/storytelling-theory/1.-the-realization-of-the-external-self.md)
   * [2. The realization of the internal self](choices/storytelling-theory/2.-the-realization-of-the-internal-self.md)

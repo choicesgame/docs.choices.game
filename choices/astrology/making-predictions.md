@@ -1,3 +1,0 @@
-# Making Predictions
-
-## SOON 🖤

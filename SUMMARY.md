@@ -49,6 +49,7 @@
   * [The Hero's Journey Archetypes](choices/astrology/the-heros-journey-archetypes.md)
   * [Making Predictions](choices/astrology/making-predictions.md)
   * [Astrology in History](choices/astrology/astrology-in-history.md)
+* [🦸♀ Storytelling Theory](choices/storytelling-theory.md)
 * [🔭 Astrophysics](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)
   * [Elementary Particles](choices/astrophysics/elementary-particles.md)

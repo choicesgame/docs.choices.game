@@ -18,9 +18,9 @@ description: Mapping the Hero's stages to the 12 houses.
 
 #### <mark style="color:blue;">7. The Other, represented by The Seventh House</mark>
 
-#### <mark style="color:purple;">8. The Transformation, represented by The Seventh House</mark>
+#### <mark style="color:purple;">8. The Transformation, represented by The Eight House</mark>
 
-#### <mark style="color:orange;">9. The Epiphany, represented by The Eight House</mark>
+#### <mark style="color:orange;">9. The Epiphany, represented by The Ninety House</mark>
 
 #### <mark style="color:red;">10. The Legacy, represented by The Tenth House</mark>
 

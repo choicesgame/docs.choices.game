@@ -51,7 +51,7 @@
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)
   * [What's the Hero Journey?](choices/storytelling-theory/whats-the-hero-journey.md)
   * [The 12 Hero's Archetypes](choices/astrology/the-heros-journey-archetypes.md)
-  * [The 12 Hero's Stages](choices/storytelling-theory/the-heros-journey-archetypes-1.md)
+  * [The 12 Hero's Stages](choices/storytelling-theory/the-heros-journey-stages.md)
   * [Storytelling in Film Theory](choices/storytelling-theory/storytelling-in-film-theory.md)
 * [🔭 Astrophysics Science](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)

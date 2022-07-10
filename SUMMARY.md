@@ -47,6 +47,8 @@
   * [Lunar Nodes](choices/astrology/lunar-nodes.md)
   * [Astrocartography](choices/astrology/astrocartography.md)
   * [Making Predictions](choices/astrology/making-predictions.md)
+  * [Working Examples](choices/astrology/working-examples/README.md)
+    * [Predicting Kurt Cobain's Life and Death](choices/astrology/working-examples/predicting-kurt-cobains-life-and-death.md)
   * [Astrology in History](choices/astrology/astrology-in-history.md)
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)
   * [What's the Hero's Journey?](choices/storytelling-theory/whats-the-hero-journey.md)

@@ -94,7 +94,7 @@
 * [🔎 Tarot Theory](choices/tarot/README.md)
   * [The Major Arcanas](choices/tarot/the-major-arcanas.md)
   * [The Minor Arcanas](choices/tarot/the-minor-arcanas.md)
-  * [The Spreads](choices/tarot/the-spreads/README.md)
+  * [The Spreads](choices/tarot/the-spreads.md)
     * [The Past, Present, and Future Spread](choices/tarot/the-spreads/the-past-present-and-future-spread.md)
     * [The Celtic Cross Spread](choices/tarot/the-spreads/the-celtic-cross-spread.md)
     * [The Hero's Journey Spread](choices/tarot/the-spreads/the-heros-journey-spread.md)

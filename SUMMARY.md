@@ -50,7 +50,7 @@
   * [Astrology in History](choices/astrology/astrology-in-history.md)
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)
   * [What's the Hero Journey?](choices/storytelling-theory/whats-the-hero-journey.md)
-  * [The Hero's Journey Archetypes](choices/storytelling-theory/the-heros-journey-archetypes.md)
+  * [The Hero's Journey Archetypes](choices/astrology/the-heros-journey-archetypes.md)
   * [Storytelling in Film Theory](choices/storytelling-theory/storytelling-in-film-theory.md)
 * [🔭 Astrophysics Science](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)

@@ -1,3 +1,2 @@
 # ✨ What's Reality?
 
-## SOON 🖤

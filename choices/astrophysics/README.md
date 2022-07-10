@@ -1,3 +1,2 @@
-# 🔭 Astrophysics
+# 🔭 Astrophysics Science
 
-## SOON 🖤

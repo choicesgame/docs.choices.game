@@ -1,3 +1,2 @@
 # 💻 Computer Science
 
-## SOON 🖤

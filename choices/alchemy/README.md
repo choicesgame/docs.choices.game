@@ -1,3 +1,2 @@
-# 🔥 Alchemy
+# 🔥 Alchemy Theory
 
-## SOON 🖤

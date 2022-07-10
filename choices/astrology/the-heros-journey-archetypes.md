@@ -30,4 +30,4 @@ description: >-
 
 #### 11. The realization of creating a new reality, with The Star, ruled by Aquarius
 
-#### <mark style="color:blue;">12. The realization of nothingness, with The Moon, ruled by Pisces</mark>
+#### 12. The realization of nothingness, with The Moon, ruled by Pisces

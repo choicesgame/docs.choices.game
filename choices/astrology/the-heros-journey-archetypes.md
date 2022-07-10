@@ -1,3 +1,3 @@
-# The Hero's Journey
+# The 12 Hero's Archetypes
 
-## SOON 🖤
+## The O

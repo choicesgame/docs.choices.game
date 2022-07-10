@@ -117,7 +117,7 @@
 
 ## Youtube TRANSCRIPTS
 
-* [1⃣ 1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
+* [1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
   * [♈ Aries](youtube-transcripts/predictions-for-july-22/aries.md)
   * [♉ Taurus](youtube-transcripts/predictions-for-july-22/taurus.md)
   * [♊ Gemini](youtube-transcripts/predictions-for-july-22/gemini.md)

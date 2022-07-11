@@ -1,5 +1,5 @@
 ---
-description: Celebrate with the goat.
+description: Celebrate (and become more mature) with the goat.
 ---
 
 # 🌕 Capricorn Full Moon 07/13/22

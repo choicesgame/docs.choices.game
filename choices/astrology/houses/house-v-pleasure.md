@@ -6,7 +6,7 @@ description: △ Nati △
 
 The fifth house, ruled by Leo, governs creativity, self-expression, the game of chances, and the joy you share with the world.
 
-![](<../../../.gitbook/assets/leo (1).png>)
+![](<../../../.gitbook/assets/leo (1) (1).png>)
 
 ### Topics of this house
 

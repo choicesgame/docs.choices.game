@@ -6,7 +6,7 @@ description: 🜁 Uxor 🜁
 
 The seventh house, ruled by Libra, concerns any type of one-to-one relationships - and how you find balance within them.
 
-![](<../../../.gitbook/assets/libra (2).png>)
+![](<../../../.gitbook/assets/libra (2) (1).png>)
 
 ### Topics of this house
 

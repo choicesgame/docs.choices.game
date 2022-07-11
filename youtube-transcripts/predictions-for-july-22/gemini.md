@@ -4,7 +4,7 @@ description: General predictions for Gemini in July 2022
 
 # ♊ Gemini
 
-![](<../../.gitbook/assets/gemini (1).png>)
+![](<../../.gitbook/assets/gemini (1) (1).png>)
 
 
 

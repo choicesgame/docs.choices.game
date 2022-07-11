@@ -14,11 +14,11 @@ description: Celebrate (and become more mature) with the goat.
 
 The Sun will be at the 4 of cups, ruled by the Moon:
 
-![The Lord of Luxury](<../.gitbook/assets/Screen Shot 2022-07-10 at 7.02.08 PM.png>)
+![The Lord of Luxury](<../.gitbook/assets/Screen Shot 2022-07-10 at 7.11.08 PM.png>)
 
 The Moon will be at the 4 of pentacles, ruled by Saturn:
 
-![The Lord of Power](<../.gitbook/assets/Screen Shot 2022-07-10 at 7.01.29 PM.png>)
+![The Lord of Power](<../.gitbook/assets/Screen Shot 2022-07-10 at 7.10.38 PM (1).png>)
 
 
 

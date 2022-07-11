@@ -133,7 +133,7 @@
   * [♑ Capricorn](youtube-transcripts/predictions-for-july-22/capricorn.md)
   * [♒ Aquarius](youtube-transcripts/predictions-for-july-22/aquarius.md)
   * [♓ Pisces](youtube-transcripts/predictions-for-july-22/pisces.md)
-* [🌕 Capricorn Full Moon 07/13/22](youtube-predictions/capricorn-full-moon-07-13-22.md)
+* [🌕 Cap Full Moon July/22](youtube-predictions/cap-full-moon-july-22.md)
 
 ## THE WEB3 ASTRO APP
 

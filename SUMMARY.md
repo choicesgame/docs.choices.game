@@ -118,6 +118,23 @@
   * [Why?](choices/whats-reality/why.md)
   * [References and Resources](choices/whats-reality/references-and-resources.md)
 
+## Youtube PREDICTIONS
+
+* [1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
+  * [♈ Aries](youtube-transcripts/predictions-for-july-22/aries.md)
+  * [♉ Taurus](youtube-transcripts/predictions-for-july-22/taurus.md)
+  * [♊ Gemini](youtube-transcripts/predictions-for-july-22/gemini.md)
+  * [♋ Cancer](youtube-transcripts/predictions-for-july-22/cancer.md)
+  * [♌ Leo](youtube-transcripts/predictions-for-july-22/leo.md)
+  * [♍ Virgo](youtube-transcripts/predictions-for-july-22/virgo.md)
+  * [♎ Libra](youtube-transcripts/predictions-for-july-22/libra.md)
+  * [♏ Scorpio](youtube-transcripts/predictions-for-july-22/scorpio.md)
+  * [♐ Sagittarius](youtube-transcripts/predictions-for-july-22/sagittarius.md)
+  * [♑ Capricorn](youtube-transcripts/predictions-for-july-22/capricorn.md)
+  * [♒ Aquarius](youtube-transcripts/predictions-for-july-22/aquarius.md)
+  * [♓ Pisces](youtube-transcripts/predictions-for-july-22/pisces.md)
+* [🌕 Capricorn Full Moon 07/13/22](youtube-predictions/capricorn-full-moon-07-13-22.md)
+
 ## THE WEB3 ASTRO APP
 
 * [⌛ Play Choices to Earn](the-web3-astro-app/play-choices-to-earn.md)
@@ -151,20 +168,3 @@
     * [Data Aggregators](resources/surviving-dystopia/defi-101/data-aggregators.md)
   * [Computer Security 101](resources/surviving-dystopia/computer-security-101/README.md)
     * [Web3 security](resources/surviving-dystopia/computer-security-101/security.md)
-
-## Youtube PREDICTIONS
-
-* [1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
-  * [♈ Aries](youtube-transcripts/predictions-for-july-22/aries.md)
-  * [♉ Taurus](youtube-transcripts/predictions-for-july-22/taurus.md)
-  * [♊ Gemini](youtube-transcripts/predictions-for-july-22/gemini.md)
-  * [♋ Cancer](youtube-transcripts/predictions-for-july-22/cancer.md)
-  * [♌ Leo](youtube-transcripts/predictions-for-july-22/leo.md)
-  * [♍ Virgo](youtube-transcripts/predictions-for-july-22/virgo.md)
-  * [♎ Libra](youtube-transcripts/predictions-for-july-22/libra.md)
-  * [♏ Scorpio](youtube-transcripts/predictions-for-july-22/scorpio.md)
-  * [♐ Sagittarius](youtube-transcripts/predictions-for-july-22/sagittarius.md)
-  * [♑ Capricorn](youtube-transcripts/predictions-for-july-22/capricorn.md)
-  * [♒ Aquarius](youtube-transcripts/predictions-for-july-22/aquarius.md)
-  * [♓ Pisces](youtube-transcripts/predictions-for-july-22/pisces.md)
-* [🌕 Capricorn Full Moon 07/13/22](youtube-predictions/capricorn-full-moon-07-13-22.md)

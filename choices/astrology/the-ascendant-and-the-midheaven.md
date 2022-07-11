@@ -1,3 +1,12 @@
 # The Ascendant and the Midheaven
 
-## SOON 🖤
+## What's the Ascendant (AC)
+
+
+
+
+
+## What's the Midheaven (MC)
+
+
+

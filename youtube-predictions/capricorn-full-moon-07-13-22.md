@@ -30,4 +30,7 @@ The Moon will be at the 4 of pentacles, ruled by Saturn:
 
 * Mercury conjunct to the Sun
 * The Moon kinda conjunct with Pluto
-* North Node within 1 degree same angle
+* The Moon is trining North Node
+* The Moon and The Sun squaring Chiron
+* The Moon is trining Neptune
+* Venus is trining Saturn

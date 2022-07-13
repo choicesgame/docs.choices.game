@@ -132,7 +132,7 @@
 ## Youtube PREDICTIONS
 
 * [💖 2022](youtube-predictions/2022/README.md)
-  * [🖤 July 2022 by Sign](youtube-predictions/2022/predictions-for-july-22/README.md)
+  * [🖤 July by Sign](youtube-predictions/2022/predictions-for-july-22/README.md)
     * [♈ Aries](youtube-predictions/2022/predictions-for-july-22/aries.md)
     * [♉ Taurus](youtube-predictions/2022/predictions-for-july-22/taurus.md)
     * [♊ Gemini](youtube-predictions/2022/predictions-for-july-22/gemini.md)
@@ -145,7 +145,7 @@
     * [♑ Capricorn](youtube-predictions/2022/predictions-for-july-22/capricorn.md)
     * [♒ Aquarius](youtube-predictions/2022/predictions-for-july-22/aquarius.md)
     * [♓ Pisces](youtube-predictions/2022/predictions-for-july-22/pisces.md)
-  * [🌕 July 2022 Full Moon](youtube-predictions/2022/july-2022-full-moon.md)
+  * [🌕 July Full Moon](youtube-predictions/2022/july-full-moon.md)
 
 ## THE WEB3 ASTRO APP
 

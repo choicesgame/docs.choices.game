@@ -16,7 +16,7 @@ The moment you were born can be mapped and mathematically represented by an astr
 
 
 
-![The birth chart and the house numbers.](../../../.gitbook/assets/AdobeStock\_3032701.jpeg)
+![The birth chart and the house numbers.](../../.gitbook/assets/AdobeStock\_3032701.jpeg)
 
 
 

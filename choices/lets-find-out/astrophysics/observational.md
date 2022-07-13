@@ -1,3 +1,0 @@
-# Energy in Physics
-
-## SOON 🖤

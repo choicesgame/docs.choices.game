@@ -149,5 +149,6 @@
 
 ## THE WEB3 ASTRO APP
 
-* [🛣 Roadmap](the-web3-astro-app/roadmap.md)
-* [💰 Tokenomics](the-web3-astro-app/tokenomics.md)
+* [📃 Docs](the-web3-astro-app/docs/README.md)
+  * [🛣 Roadmap](the-web3-astro-app/docs/roadmap.md)
+  * [💰 Tokenomics](the-web3-astro-app/docs/tokenomics.md)

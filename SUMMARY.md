@@ -4,7 +4,7 @@
 
 ## Is Free Will real? <a href="#choices" id="choices"></a>
 
-* [Is Free Will Real?](choices/is-free-will-real.md)
+* [Let's find out!](choices/lets-find-out.md)
 * [🖼 Astrology Theory](choices/astrology/README.md)
   * [The Birth Chart](choices/astrology/birth-charts.md)
   * [The Houses](astro/houses.md)

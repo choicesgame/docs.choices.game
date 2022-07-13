@@ -96,6 +96,7 @@
   * [Energy](choices/alchemy/energy.md)
   * [The Four Elements](choices/alchemy/the-four-elements.md)
   * [Materializing](choices/alchemy/materializing.md)
+  * [Free Will and Magick](choices/alchemy/free-will-and-magick.md)
   * [Alchemy in History](choices/alchemy/alchemy-in-history.md)
   * [References and Resources](choices/alchemy/references-and-resources.md)
 * [🔎 Tarot Theory](choices/tarot/README.md)

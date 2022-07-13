@@ -135,7 +135,7 @@
 ## Youtube PREDICTIONS
 
 * [💖 2022](youtube-predictions/2022/README.md)
-  * [🖤 July by Sign](youtube-predictions/2022/predictions-for-july-22/README.md)
+  * [🖤 July by Rising Sign](youtube-predictions/2022/predictions-for-july-22/README.md)
     * [♈ Aries](youtube-predictions/2022/predictions-for-july-22/aries.md)
     * [♉ Taurus](youtube-predictions/2022/predictions-for-july-22/taurus.md)
     * [♊ Gemini](youtube-predictions/2022/predictions-for-july-22/gemini.md)

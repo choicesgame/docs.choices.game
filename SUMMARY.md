@@ -121,7 +121,7 @@
     * [References and Resources](choices/lets-find-out/computer-science/references-and-resources.md)
   * [✨ What's Reality?](choices/lets-find-out/whats-reality/README.md)
     * [Reality as a Quantum Simulation](choices/lets-find-out/whats-reality/reality-as-a-quantum-simulation.md)
-    * [The characters and The Team We play](choices/lets-find-out/whats-reality/the-character-and-the-team-you-play.md)
+    * [The Characters and the Team We Play](choices/lets-find-out/whats-reality/the-character-and-the-team-you-play.md)
     * [The Goals to Level Up and Win](choices/lets-find-out/whats-reality/the-goals-to-level-up-and-win.md)
     * [A Theory for NPCs](choices/lets-find-out/whats-reality/a-theory-for-npcs.md)
     * [Destiny and "Bosses" to Be Defeated](choices/lets-find-out/whats-reality/karma-destiny-and-bosses-to-be-defeated.md)

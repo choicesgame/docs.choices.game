@@ -90,6 +90,7 @@
   * [Group Theory](choices/astrophysics/group-theory.md)
   * [The Fundamental Constants](choices/astrophysics/the-fundamental-constants.md)
   * [Logic and Confirmation Bias](choices/astrophysics/logic-and-confirmation-bias.md)
+  * [Free Will and Quantum Mechanics](choices/astrophysics/free-will-and-quantum-mechanics.md)
   * [References and Resources](choices/astrophysics/references-and-resources.md)
 * [🔥 Alchemy Theory](choices/alchemy/README.md)
   * [Energy](choices/alchemy/energy.md)

@@ -1,3 +1,3 @@
-# Observational Astrophysics
+# Energy in Physics
 
 ## SOON 🖤

@@ -80,6 +80,7 @@
     * [11. The Connectionless](choices/storytelling-theory/the-heros-journey-stages/11.-the-connectionless.md)
     * [12. The Ascendency](choices/storytelling-theory/the-heros-journey-stages/12.-the-ascendency.md)
   * [Storytelling in Film Theory](choices/storytelling-theory/storytelling-in-film-theory.md)
+  * [Free Will in Films](choices/storytelling-theory/free-will-in-films.md)
   * [References and Resources](choices/storytelling-theory/references-and-resources.md)
 * [🔭 Astrophysics Science](choices/astrophysics/README.md)
   * [Cosmology](choices/astrophysics/cosmology.md)

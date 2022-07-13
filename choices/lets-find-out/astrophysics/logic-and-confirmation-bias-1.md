@@ -1,3 +1,3 @@
-# Determinism and Quantum Mechanics
+# Quantum Entanglement
 
 ## SOON 🖤

@@ -49,6 +49,7 @@
   * [Making Predictions](choices/astrology/making-predictions.md)
     * [Predicting Kurt Cobain's Life and Death](choices/astrology/making-predictions/predicting-kurt-cobains-life-and-death.md)
   * [Astrology in History](choices/astrology/astrology-in-history.md)
+  * [Free Will and Astrology](choices/astrology/free-will-and-astrology.md)
   * [References and Resources](choices/astrology/references-and-resources.md)
 * [🦸♀ Storytelling Theory](choices/storytelling-theory/README.md)
   * [What's the Hero's Journey?](choices/storytelling-theory/whats-the-hero-journey.md)

@@ -1,3 +1,0 @@
-# Astrocartography
-
-## SOON 🖤

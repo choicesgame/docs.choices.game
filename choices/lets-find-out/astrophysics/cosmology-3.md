@@ -1,3 +1,0 @@
-# Observational Astrophysics
-
-## SOON 🖤

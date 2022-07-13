@@ -1,3 +1,0 @@
-# Synastry
-
-## SOON 🖤

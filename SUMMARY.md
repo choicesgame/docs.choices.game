@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🖤 Welcome!](README.md)
+* [🖤 𝚆𝚎𝚕𝚌𝚘𝚖𝚎!](README.md)
 
 ## Is Free Will real? <a href="#choices" id="choices"></a>
 

@@ -1,2 +1,2 @@
-# Free Will and Magick
+# Free Will, Will, and Magick
 

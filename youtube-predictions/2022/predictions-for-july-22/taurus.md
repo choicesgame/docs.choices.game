@@ -4,7 +4,7 @@ description: General predictions for Taurus in July 2022
 
 # ♉ Taurus
 
-![](../../.gitbook/assets/taurus.png)
+![](../../../.gitbook/assets/taurus.png)
 
 
 

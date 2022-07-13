@@ -4,7 +4,7 @@ description: General predictions for Aries in July 2022
 
 # ♈ Aries
 
-![](../../.gitbook/assets/aris.png)
+![](../../../.gitbook/assets/aris.png)
 
 | Transit                                     | Date  | Example of Meaning                                                                                                   | House                          |
 | ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------ |

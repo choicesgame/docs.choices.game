@@ -4,7 +4,7 @@ description: General predictions for Scorpio in July 2022
 
 # ♏ Scorpio
 
-![](../../.gitbook/assets/scorpio.png)
+![](../../../.gitbook/assets/scorpio.png)
 
 
 

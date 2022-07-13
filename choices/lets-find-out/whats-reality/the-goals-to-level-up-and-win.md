@@ -1,3 +1,3 @@
-# The goals to level up and win
+# The Goals to Level Up and Win
 
 ## SOON 🖤

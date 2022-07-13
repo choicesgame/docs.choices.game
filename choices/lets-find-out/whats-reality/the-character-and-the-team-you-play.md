@@ -1,3 +1,3 @@
-# The character and the team you play
+# The characters and The Team We play
 
 ## SOON 🖤

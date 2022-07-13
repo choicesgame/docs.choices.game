@@ -1,3 +1,3 @@
-# Karma, destiny, and "bosses" to be defeated
+# Destiny and "Bosses" to Be Defeated
 
 ## SOON 🖤

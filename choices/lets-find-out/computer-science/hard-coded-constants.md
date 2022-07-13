@@ -1,2 +1,2 @@
-# Hard-coded variables
+# Hard-coded Constants
 

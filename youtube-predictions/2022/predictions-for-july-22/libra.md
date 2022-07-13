@@ -4,7 +4,7 @@ description: General predictions for Libra in July 2022
 
 # ♎ Libra
 
-![](<../../.gitbook/assets/libra (1).png>)
+![](<../../../.gitbook/assets/libra (1).png>)
 
 
 

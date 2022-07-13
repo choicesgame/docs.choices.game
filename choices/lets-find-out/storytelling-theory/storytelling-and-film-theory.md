@@ -1,3 +1,3 @@
-# In Film Theory
+# Storytelling and Film Theory
 
 ## SOON 🖤

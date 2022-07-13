@@ -131,20 +131,21 @@
 
 ## Youtube PREDICTIONS
 
-* [1⃣ July 2022 by Sign](youtube-transcripts/predictions-for-july-22/README.md)
-  * [♈ Aries](youtube-transcripts/predictions-for-july-22/aries.md)
-  * [♉ Taurus](youtube-transcripts/predictions-for-july-22/taurus.md)
-  * [♊ Gemini](youtube-transcripts/predictions-for-july-22/gemini.md)
-  * [♋ Cancer](youtube-transcripts/predictions-for-july-22/cancer.md)
-  * [♌ Leo](youtube-transcripts/predictions-for-july-22/leo.md)
-  * [♍ Virgo](youtube-transcripts/predictions-for-july-22/virgo.md)
-  * [♎ Libra](youtube-transcripts/predictions-for-july-22/libra.md)
-  * [♏ Scorpio](youtube-transcripts/predictions-for-july-22/scorpio.md)
-  * [♐ Sagittarius](youtube-transcripts/predictions-for-july-22/sagittarius.md)
-  * [♑ Capricorn](youtube-transcripts/predictions-for-july-22/capricorn.md)
-  * [♒ Aquarius](youtube-transcripts/predictions-for-july-22/aquarius.md)
-  * [♓ Pisces](youtube-transcripts/predictions-for-july-22/pisces.md)
-* [🌕 July 2022 Full Moon](youtube-predictions/july-2022-full-moon.md)
+* [2022](youtube-predictions/2022/README.md)
+  * [7⃣ July 2022 by Sign](youtube-predictions/2022/predictions-for-july-22/README.md)
+    * [♈ Aries](youtube-predictions/2022/predictions-for-july-22/aries.md)
+    * [♉ Taurus](youtube-predictions/2022/predictions-for-july-22/taurus.md)
+    * [♊ Gemini](youtube-predictions/2022/predictions-for-july-22/gemini.md)
+    * [♋ Cancer](youtube-predictions/2022/predictions-for-july-22/cancer.md)
+    * [♌ Leo](youtube-predictions/2022/predictions-for-july-22/leo.md)
+    * [♍ Virgo](youtube-predictions/2022/predictions-for-july-22/virgo.md)
+    * [♎ Libra](youtube-predictions/2022/predictions-for-july-22/libra.md)
+    * [♏ Scorpio](youtube-predictions/2022/predictions-for-july-22/scorpio.md)
+    * [♐ Sagittarius](youtube-predictions/2022/predictions-for-july-22/sagittarius.md)
+    * [♑ Capricorn](youtube-predictions/2022/predictions-for-july-22/capricorn.md)
+    * [♒ Aquarius](youtube-predictions/2022/predictions-for-july-22/aquarius.md)
+    * [♓ Pisces](youtube-predictions/2022/predictions-for-july-22/pisces.md)
+  * [🌕 July 2022 Full Moon](youtube-predictions/2022/july-2022-full-moon.md)
 
 ## THE WEB3 ASTRO APP
 

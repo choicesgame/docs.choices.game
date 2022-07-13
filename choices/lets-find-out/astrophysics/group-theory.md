@@ -1,3 +1,3 @@
-# Group Theory
+# Group Theory in Physics
 
 ## SOON 🖤

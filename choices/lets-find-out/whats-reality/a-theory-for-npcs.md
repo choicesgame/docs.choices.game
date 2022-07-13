@@ -1,3 +1,3 @@
-# A theory for NPCs
+# A Theory for NPCs
 
 ## SOON 🖤

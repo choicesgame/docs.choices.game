@@ -2,7 +2,7 @@
 description: Transcripts for astrological predictions for July 2022
 ---
 
-# 1⃣ Predictions for July/22
+# 7⃣ July 2022 by Sign
 
 ## General overview
 
@@ -10,7 +10,7 @@ The list of transits happening in July can be seen below. To find how this influ
 
 
 
-![](<../../.gitbook/assets/Screen Shot 2022-07-02 at 5.16.36 PM (1).png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-07-02 at 5.16.36 PM (1).png>)
 
 ###
 

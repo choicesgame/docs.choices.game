@@ -1,7 +1,7 @@
 ---
 description: Do you feel like the protagonist of your Story?
-cover: .gitbook/assets/banner-name-stronger.jpeg
-coverY: -44.74820143884892
+cover: .gitbook/assets/banner-with-name.png
+coverY: -41.697187704381946
 layout: landing
 ---
 

@@ -7,17 +7,17 @@ layout: landing
 
 # 🖤 Welcome!
 
-###
-
-### Our goal is to help you dive into what we believe is the ultimate Game of Choices: ‍
 
 
+#### Our goal is to help you dive into what we believe is the ultimate Game of Choices: ‍
 
-### &#x20;**The Human Condition in this  Simulation**
+
+
+### &#x20;**The Human Condition in this Quantum Simulation**
 
 <mark style="background-color:purple;">****</mark>
 
-### **Shall we start?**&#x20;
+#### **Shall we start?**&#x20;
 
 ****
 

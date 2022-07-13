@@ -13,7 +13,7 @@ layout: landing
 
 
 
-### &#x20;<mark style="background-color:purple;">**The Human Condition in this  Simulation**</mark>
+### &#x20;**The Human Condition in this  Simulation**
 
 <mark style="background-color:purple;">****</mark>
 

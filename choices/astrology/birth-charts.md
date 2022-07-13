@@ -46,7 +46,7 @@ Keep in mind that the angle of your ascendant is important too, and we will disc
 
 
 
-### The 12 signs in the context of the hero's journey narrative&#x20;
+### The 12 signs and the hero's journey narrative&#x20;
 
 There is a symmetry between the house number and the narrative of each of the 12 zodiac signs. In the case of the first house, the house of self is represented by the ideals of Aries (so it is also called the **"House of Aries"**). These are how the houses are ruled:
 
@@ -67,5 +67,23 @@ There is a symmetry between the house number and the narrative of each of the 12
 
 
 
+We discuss each house in detail in the next section, but here is a high-level summary of how this works:
 
+
+
+![A high-level definition of what each area of the 12 houses represents in our lives.](../../.gitbook/assets/64d6d6f78eadd88066b7f584b5012f13.jpeg)
+
+
+
+
+
+<mark style="color:orange;">**Another interesting connection to other tools that describe the hero's journey narrative: the birth chart can be divided into the stages represented by Tarot cards:**</mark>
+
+
+
+![Tarot hero's journey narrative represented in the astrological chart.](../../.gitbook/assets/95ac90f041bc3e4be6586c280e272b93.png)
+
+
+
+<mark style="background-color:red;">**Pretty cool, right? So let's learn more about the 12 houses! ⤵️**</mark>
 

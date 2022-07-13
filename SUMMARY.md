@@ -96,7 +96,7 @@
     * [Free Will and Quantum Mechanics](choices/lets-find-out/astrophysics/free-will-and-quantum-mechanics.md)
     * [References and Resources](choices/lets-find-out/astrophysics/references-and-resources.md)
   * [🔥 Alchemy Theory](choices/lets-find-out/alchemy/README.md)
-    * [Understanding "Energy:](choices/lets-find-out/alchemy/energy.md)
+    * [Understanding "Energy"](choices/lets-find-out/alchemy/energy.md)
     * [The Four Elements](choices/lets-find-out/alchemy/the-four-elements.md)
     * [Materializing](choices/lets-find-out/alchemy/materializing.md)
     * [Free Will, Will, and Magick](choices/lets-find-out/alchemy/free-will-will-and-magick.md)

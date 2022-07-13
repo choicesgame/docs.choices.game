@@ -111,6 +111,7 @@
       * [The Past, Present, and Future Spread](choices/lets-find-out/tarot/the-spreads/the-past-present-and-future-spread.md)
       * [The Celtic Cross Spread](choices/lets-find-out/tarot/the-spreads/the-celtic-cross-spread.md)
       * [The Hero's Journey Spread](choices/lets-find-out/tarot/the-spreads/the-heros-journey-spread.md)
+    * [Clairvoyance and Extra-sensorial Perceptions](choices/lets-find-out/tarot/clairvoyance-and-extra-sensorial-perceptions.md)
     * [Reading Tarot](choices/lets-find-out/tarot/reading-tarot.md)
     * [Free Will and Tarot](choices/lets-find-out/tarot/free-will-and-tarot.md)
     * [Tarot in History](choices/lets-find-out/tarot/tarot-in-history.md)

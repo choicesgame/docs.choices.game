@@ -126,7 +126,7 @@
 
 ## Youtube PREDICTIONS
 
-* [1⃣ Predictions for July/22](youtube-transcripts/predictions-for-july-22/README.md)
+* [1⃣ Predictions for July 2022](youtube-transcripts/predictions-for-july-22/README.md)
   * [♈ Aries](youtube-transcripts/predictions-for-july-22/aries.md)
   * [♉ Taurus](youtube-transcripts/predictions-for-july-22/taurus.md)
   * [♊ Gemini](youtube-transcripts/predictions-for-july-22/gemini.md)
@@ -139,38 +139,9 @@
   * [♑ Capricorn](youtube-transcripts/predictions-for-july-22/capricorn.md)
   * [♒ Aquarius](youtube-transcripts/predictions-for-july-22/aquarius.md)
   * [♓ Pisces](youtube-transcripts/predictions-for-july-22/pisces.md)
-* [🌕 Cap Full Moon July/22](youtube-predictions/cap-full-moon-july-22.md)
+* [🌕 Full Moon July 2022](youtube-predictions/full-moon-july-2022.md)
 
 ## THE WEB3 ASTRO APP
 
-* [⌛ Play Choices to Earn](the-web3-astro-app/play-choices-to-earn.md)
-* [💰 Tokenomics](the-web3-astro-app/tokenomics.md)
 * [🛣 Roadmap](the-web3-astro-app/roadmap.md)
-
-## Other Resources <a href="#resources" id="resources"></a>
-
-* [☠ Surviving Dystopia](resources/surviving-dystopia/README.md)
-  * [Being a Nomad 101](resources/surviving-dystopia/being-a-nomad-101.md)
-  * [Crypto 101](resources/surviving-dystopia/crypto-101/README.md)
-    * [Wallets](resources/surviving-dystopia/crypto-101/wallets.md)
-  * [DeFi 101](resources/surviving-dystopia/defi-101/README.md)
-    * [DEXs](resources/surviving-dystopia/defi-101/dexs/README.md)
-      * [Arbitrage](resources/surviving-dystopia/defi-101/dexs/arbitrage.md)
-      * [References and projects](resources/surviving-dystopia/defi-101/dexs/references-and-projects.md)
-      * [Oracles](resources/surviving-dystopia/defi-101/dexs/oracles.md)
-    * [Bridges](resources/surviving-dystopia/defi-101/bridges.md)
-    * [Yield Aggregators](resources/surviving-dystopia/defi-101/yield-aggregators.md)
-    * [Liquidity Mining](resources/surviving-dystopia/defi-101/liquidity-mining.md)
-    * [Yield Farming](resources/surviving-dystopia/defi-101/yield-farming.md)
-    * [Stablecoins](resources/surviving-dystopia/defi-101/stablecoins.md)
-    * [Lending](resources/surviving-dystopia/defi-101/lending.md)
-    * [Indices](resources/surviving-dystopia/defi-101/indices.md)
-    * [Fixed Interest Rate Protocols](resources/surviving-dystopia/defi-101/fixed-interest-rate-protocols.md)
-    * [Derivatives](resources/surviving-dystopia/defi-101/derivatives.md)
-    * [Decentralized Prediction Markets](resources/surviving-dystopia/defi-101/decentralized-prediction-markets.md)
-    * [Insurance](resources/surviving-dystopia/defi-101/insurance.md)
-    * [Rate Protocols](resources/surviving-dystopia/defi-101/rate-protocols.md)
-    * [Airdrops](resources/surviving-dystopia/defi-101/airdrops.md)
-    * [Data Aggregators](resources/surviving-dystopia/defi-101/data-aggregators.md)
-  * [Computer Security 101](resources/surviving-dystopia/computer-security-101/README.md)
-    * [Web3 security](resources/surviving-dystopia/computer-security-101/security.md)
+* [💰 Tokenomics](the-web3-astro-app/tokenomics.md)

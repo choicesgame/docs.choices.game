@@ -6,6 +6,12 @@ coverY: -44.74820143884892
 
 # 🖤 Welcome!
 
-### These pages intend to provide guidance for the ultimate Game of $CHOICES: The Human Condition in this Reality (which might be nothing more than a beautiful quantum simulation).
+### Our goal is to help you dive into what we believe is the ultimate Game of Choices: ‍
+
+
+
+### &#x20;<mark style="background-color:purple;">**The Human Condition in this  Simulation**</mark>
+
+<mark style="background-color:purple;">****</mark>
 
 ## **Shall we start?**&#x20;

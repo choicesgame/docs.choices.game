@@ -49,7 +49,7 @@
     * [Making Predictions](choices/astrology/making-predictions.md)
       * [Predicting Kurt Cobain's Life and Death](choices/astrology/making-predictions/predicting-kurt-cobains-life-and-death.md)
     * [Astrology in History](choices/astrology/astrology-in-history.md)
-    * [Carl Jung's Research](choices/lets-find-out/astrology/astrology-in-history-1.md)
+    * [Carl Jung's Research](choices/lets-find-out/astrology/carl-jungs-research.md)
     * [Free Will and Astrology](choices/astrology/free-will-and-astrology.md)
     * [References and Resources](choices/astrology/references-and-resources.md)
   * [🦸♀ Storytelling Theory](choices/lets-find-out/storytelling-theory/README.md)

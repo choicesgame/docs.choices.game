@@ -94,7 +94,7 @@
     * [Elementary Particles in Physics](choices/lets-find-out/astrophysics/elementary-particles.md)
     * [Group Theory in Physics](choices/lets-find-out/astrophysics/group-theory.md)
     * [Logic and Confirmation Bias](choices/lets-find-out/astrophysics/logic-and-confirmation-bias.md)
-    * [Carl Sagan's Research](<choices/lets-find-out/astrophysics/logic-and-confirmation-bias-1 (1).md>)
+    * [Carl Sagan's Research](choices/lets-find-out/astrophysics/carl-sagans-research.md)
     * [Quantum Entanglement](choices/lets-find-out/astrophysics/quantum-entanglement.md)
     * [Determinism and Quantum Mechanics](choices/lets-find-out/astrophysics/logic-and-confirmation-bias-1.md)
     * [Free Will and Quantum Mechanics](choices/lets-find-out/astrophysics/free-will-and-quantum-mechanics.md)

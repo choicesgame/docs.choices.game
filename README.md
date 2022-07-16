@@ -2,8 +2,8 @@
 description: >-
   [ 𝚍𝚘 𝚢𝚘𝚞 𝚏𝚎𝚎𝚕 𝚕𝚒𝚔𝚎 𝚝𝚑𝚎 𝚙𝚛𝚘𝚝𝚊𝚐𝚘𝚗𝚒𝚜𝚝 𝚘𝚏 𝚢𝚘𝚞𝚛
   𝚜𝚝𝚘𝚛𝚢? ]
-cover: .gitbook/assets/banner-with-name (2).png
-coverY: 16.115107913669064
+cover: .gitbook/assets/Black and Ivory Modern Name YouTube Channel Art (1).png
+coverY: 0
 layout: landing
 ---
 

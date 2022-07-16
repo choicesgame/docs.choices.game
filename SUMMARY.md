@@ -151,9 +151,3 @@
     * [♒ Aquarius](predictions/2022/predictions-for-july-22/aquarius.md)
     * [♓ Pisces](predictions/2022/predictions-for-july-22/pisces.md)
   * [🌕 July Full Moon](predictions/2022/july-full-moon.md)
-
-## WEB3 ASTRO APP
-
-* [📃 Docs](web3-astro-app/docs/README.md)
-  * [🛣 Roadmap](web3-astro-app/docs/roadmap.md)
-  * [💰 Tokenomics](web3-astro-app/docs/tokenomics.md)

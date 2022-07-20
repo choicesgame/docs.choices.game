@@ -2,7 +2,7 @@
 
 * [🖤 𝚆𝚎𝚕𝚌𝚘𝚖𝚎!](README.md)
 
-## Is Free Will real? <a href="#choices" id="choices"></a>
+## ✨ Is Free Will real? <a href="#choices" id="choices"></a>
 
 * [Let's find out!](choices/lets-find-out.md)
   * [🦸♀ Storytelling](choices/lets-find-out/storytelling/README.md)
@@ -137,3 +137,7 @@
     * [Is Free Will Real?](choices/lets-find-out/whats-reality/is-free-will-real.md)
     * [But... Why?](choices/lets-find-out/whats-reality/why.md)
     * [References and Resources](choices/lets-find-out/whats-reality/references-and-resources.md)
+
+## 📽 Independent Filmmaking
+
+* [Production](independent-filmmaking/production.md)

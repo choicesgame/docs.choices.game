@@ -138,6 +138,8 @@
     * [But... Why?](choices/lets-find-out/whats-reality/why.md)
     * [References and Resources](choices/lets-find-out/whats-reality/references-and-resources.md)
 
-## 📽 Independent Filmmaking
+## 📽 Independent ArtFilm
 
-* [Production](independent-filmmaking/production.md)
+* [Pre-Production](independent-artfilm/pre-production.md)
+* [Production](independent-artfilm/production.md)
+* [Post-Production](independent-artfilm/post-production.md)

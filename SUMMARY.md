@@ -137,9 +137,3 @@
     * [Is Free Will Real?](choices/lets-find-out/whats-reality/is-free-will-real.md)
     * [But... Why?](choices/lets-find-out/whats-reality/why.md)
     * [References and Resources](choices/lets-find-out/whats-reality/references-and-resources.md)
-
-## 📽 Independent ArtFilm
-
-* [Pre-Production](independent-artfilm/pre-production.md)
-* [Production](independent-artfilm/production.md)
-* [Post-Production](independent-artfilm/post-production.md)

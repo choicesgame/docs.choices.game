@@ -137,21 +137,3 @@
     * [Is Free Will Real?](choices/lets-find-out/whats-reality/is-free-will-real.md)
     * [But... Why?](choices/lets-find-out/whats-reality/why.md)
     * [References and Resources](choices/lets-find-out/whats-reality/references-and-resources.md)
-
-## PREDICTIONS
-
-* [💖 2022](predictions/2022/README.md)
-  * [🖤 July by Rising Sign](predictions/2022/predictions-for-july-22/README.md)
-    * [♈ Aries](predictions/2022/predictions-for-july-22/aries.md)
-    * [♉ Taurus](predictions/2022/predictions-for-july-22/taurus.md)
-    * [♊ Gemini](predictions/2022/predictions-for-july-22/gemini.md)
-    * [♋ Cancer](predictions/2022/predictions-for-july-22/cancer.md)
-    * [♌ Leo](predictions/2022/predictions-for-july-22/leo.md)
-    * [♍ Virgo](predictions/2022/predictions-for-july-22/virgo.md)
-    * [♎ Libra](predictions/2022/predictions-for-july-22/libra.md)
-    * [♏ Scorpio](predictions/2022/predictions-for-july-22/scorpio.md)
-    * [♐ Sagittarius](predictions/2022/predictions-for-july-22/sagittarius.md)
-    * [♑ Capricorn](predictions/2022/predictions-for-july-22/capricorn.md)
-    * [♒ Aquarius](predictions/2022/predictions-for-july-22/aquarius.md)
-    * [♓ Pisces](predictions/2022/predictions-for-july-22/pisces.md)
-  * [🌕 July Full Moon](predictions/2022/july-full-moon.md)

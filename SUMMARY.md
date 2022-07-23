@@ -36,7 +36,7 @@
       * [12. The Ascendency](choices/lets-find-out/storytelling/the-heros-journey-stages/12.-the-ascendency.md)
     * [Storytelling and Film Theory](choices/lets-find-out/storytelling/storytelling-and-film-theory.md)
     * [Free Will in Films](choices/lets-find-out/storytelling/free-will-in-films.md)
-    * [References and Resources](choices/lets-find-out/storytelling/references-and-resources.md)
+    * [Resources](choices/lets-find-out/storytelling/resources.md)
   * [☠ Philosophy](choices/lets-find-out/philosophy/README.md)
     * [Social-Anarchy](choices/lets-find-out/philosophy/social-anarchy.md)
     * [References and Resources](choices/lets-find-out/philosophy/references-and-resources.md)

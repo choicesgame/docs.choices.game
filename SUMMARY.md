@@ -137,3 +137,7 @@
     * [Is Free Will Real?](choices/lets-find-out/whats-reality/is-free-will-real.md)
     * [But... Why?](choices/lets-find-out/whats-reality/why.md)
     * [Resources](choices/lets-find-out/whats-reality/resources.md)
+
+## 🎩 contributing
+
+* [Submitting knowledge](contributing/submitting-knowledge.md)

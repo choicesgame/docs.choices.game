@@ -1,10 +1,8 @@
 # The Planets
 
-## SOON 🖤
 
 
-
-| Gem     | Symbolism                                                                                                                                                                      | Time to Transit Between Signs |
+| Planet  | Symbolism                                                                                                                                                                      | Time to Transit Between Signs |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
 | Sun     | <p>represents the self, one’s personality and ego, how you shine your light in this world, Planet of Self, Ego, Basic Personality, Consciousness, Vitality, Stamina</p><p></p> | 1 month                       |
 | Moon    | internal identity, how we best nurture and nourish ourselves through self care, Planet of Emotions, Unconsciousness, Emotions, Instincts, Habits, Moods                        | 2-3 Days                      |

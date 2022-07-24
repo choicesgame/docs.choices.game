@@ -1,3 +1,3 @@
-# Understanding "Energy:
+# Understanding "Energy"
 
-## SOON 🖤
+##

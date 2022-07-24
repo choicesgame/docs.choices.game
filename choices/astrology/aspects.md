@@ -1,7 +1,5 @@
 # The Aspects
 
-## SOON 🖤
-
 
 
 ## 🖤 Conjunction

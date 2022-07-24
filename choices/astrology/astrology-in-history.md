@@ -1,3 +1,3 @@
 # Astrology in History
 
-## SOON 🖤
+##

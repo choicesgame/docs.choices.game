@@ -1,6 +1,6 @@
-# Making Predictions
+# Predictions
 
-## SOON 🖤
+##
 
 
 

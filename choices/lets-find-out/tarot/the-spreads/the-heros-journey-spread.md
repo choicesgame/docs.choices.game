@@ -6,8 +6,6 @@ description: >-
 
 # The Hero's Journey Spread
 
-![The Hero's Journey Tarot spread](<../../../../.gitbook/assets/Screen Shot 2022-07-10 at 3.56.57 PM.png>)
-
 
 
 ### Card 1: Advice for the querier's self (appearance, attitude, inner motivation, point of view)

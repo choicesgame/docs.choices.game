@@ -1,3 +1,3 @@
 # The Minor Arcanas
 
-## SOON 🖤
+##

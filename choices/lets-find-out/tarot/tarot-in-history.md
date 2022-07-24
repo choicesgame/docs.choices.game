@@ -1,3 +1,3 @@
 # Tarot in History
 
-## SOON 🖤
+##

@@ -1,3 +1,3 @@
-# Lunar Nodes and Destiny
+# Lunar Nodes and theories for destiny
 
-## SOON 🖤
+##

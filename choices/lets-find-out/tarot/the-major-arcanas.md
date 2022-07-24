@@ -1,3 +1,3 @@
 # The Major Arcanas
 
-## SOON 🖤
+##

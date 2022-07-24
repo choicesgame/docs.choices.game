@@ -1,3 +1,3 @@
-# Retrogrades and Karma
+# Retrogrades and theories for karma
 
-## SOON 🖤
+##

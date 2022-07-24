@@ -1,3 +1,3 @@
-# Clairvoyance and Extra-sensorial Perceptions
+# Clairvoyance and Extra-sensorial stuff
 
-## SOON 🖤
+##

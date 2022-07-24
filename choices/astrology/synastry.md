@@ -1,3 +1,3 @@
-# Synastry and Karma
+# Synastry and theories for karma
 
-## SOON 🖤
+##

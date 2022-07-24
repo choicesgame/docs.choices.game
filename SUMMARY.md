@@ -140,4 +140,4 @@
 
 ## 🎩 contributing
 
-* [Submitting knowledge](contributing/submitting-knowledge.md)
+* [Add knowledge](contributing/add-knowledge.md)

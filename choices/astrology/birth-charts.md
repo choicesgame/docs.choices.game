@@ -6,7 +6,7 @@ description: >-
 
 # The Birth Chart
 
-### _<mark style="color:purple;">**The very moment you left your mother's womb, the universe was in a unique state, a combination of every celestial object in a specific position that never existed before and cannot be reproduced again.**</mark>_&#x20;
+#### _<mark style="color:purple;">**The very moment you left your mother's womb, the universe was in a unique state, a combination of every celestial object in a specific position that never existed before and cannot be reproduced again.**</mark>_&#x20;
 
 In this sense, every human is a unique configuration of attributes!&#x20;
 
@@ -32,7 +32,7 @@ In Astronomy, the Sun and the Moon are obviously not planets (instead, a star, a
 
 The birth chart represents our view of the Sky sliced into 12 sections of 30° degrees, with the whole circle measuring 360°. Each of these sections represents **"The 12 Houses":** the 12 areas related to the 12 functions of existing as a human being.&#x20;
 
-<mark style="color:orange;">**In the hero's journey narrative, each of these 12 sectors is one phase in the whole story, flowing counterclockwise and starting from the first house.**</mark>
+<mark style="color:purple;">**In the hero's journey narrative, each of these 12 sectors is one phase in the whole story, flowing counterclockwise and starting from the first house.**</mark>
 
 A fun way to think about a birth chart is: _"You are the God of your story; Planets are the performers; Houses are the chapters of this journey; and the signs are the costumes, the styles, the filters, you run it."_ You can think of Tarot as the street map of your life and birth charts as the satellite view for the larger picture
 
@@ -40,7 +40,7 @@ A fun way to think about a birth chart is: _"You are the God of your story; Plan
 
 The sign of your ascendant is defined by the sign on the horizon when you were born. It's the point where the Earth touches the Sky. That's why you need your exact time and location of birth to define your ascendant!
 
-<mark style="color:blue;">**The ascendant defines not only the sign of your first house (or "The House of Self"), but also the sign of every house in your chart.**</mark>&#x20;
+<mark style="color:purple;">**The ascendant defines not only the sign of your first house (or "The House of Self"), but also the sign of every house in your chart.**</mark>&#x20;
 
 Keep in mind that the angle of your ascendant is important too, and we will discuss it more in the next pages.&#x20;
 

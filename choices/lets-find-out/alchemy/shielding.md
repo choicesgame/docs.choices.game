@@ -12,9 +12,9 @@ The best advice is to **cut and block anything that feels intuitively dealigned*
 
 You have the right not to hold or care for what you don't want or need inside your life and mind.&#x20;
 
-Here some ideas:
+Here are some ideas:
 
 1. if you can, just cut the cord out: physically block, remove, unfollow.
-2. Work on the mind inertia: every time this person or energy comes to your mind, acknowledge and then gently, move away to your own thoughts and happy spaces.
-3. If you can't cut out physically for now, make a plan to be able to do this in the future. Do not stand in a situation that chronically attacking your well being and your free will.
+2. Work on the mind inertia: every time this person or energy comes to your mind, acknowledge it and then gently, move away to your own thoughts and happy spaces.
+3. If you can't cut out physically, for now, make a plan to be able to do this in the future. Do not stand in a situation that chronically attacks your well-being and your free will.
 4. Things might change later, and you might review and reshape your shielding. Don't worry about it now; protect what needs to be shielded from now.

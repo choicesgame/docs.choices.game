@@ -6,11 +6,13 @@ description: The most important ability you need.
 
 Everything we touch is a type of energy exchange. As you start tuning to higher energies and higher abilities, to be able to progress, you will need to set boundaries from lower vibrations.
 
-You can use artifacts and rituals to work on your shielding (such as sage, epson salt, crystals, etc.), but your mind is what ultimately decides, creates, and maintains the shielding.
+You can use artifacts and rituals to work on your shielding (such as sage, epson salt, stones, etc.), but your mind is what ultimately decides, creates, and maintains the shielding.
 
-The best advice is to cut and block anything that feels intuitively dealigned (or anything that pulls your mind to other people's will or neuroses).&#x20;
+The best advice is to **cut and block anything that feels intuitively dealigned** (or anything that pulls your mind to other people's will or neuroses).&#x20;
 
-You have the right not to have what you don't want or need inside your life and mind. Here some ideas:
+You have the right not to hold or care for what you don't want or need inside your life and mind.&#x20;
+
+Here some ideas:
 
 1. if you can, just cut the cord out: physically block, remove, unfollow.
 2. Work on the mind inertia: every time this person or energy comes to your mind, acknowledge and then gently, move away to your own thoughts and happy spaces.

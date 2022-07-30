@@ -7,7 +7,7 @@
 Think:
 
 * **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon).
-* **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes, or Aquarius vibes).
+* **Uranus** is all the bad/good luck in the world in an unexpected way (think open but mysterious sudden changes, or Aquarius vibes).
 * **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes).
 
 ###
@@ -37,5 +37,6 @@ Think:
 * For beginners:
   1. Look at where the "planets" are (which sign, angle, and what's around).
   2. Look at the type of lines among them: trines, square, opposition (don't worry yet about how many delta degrees, you will create your own intuition with experience).&#x20;
+  3. Ignore the symbols or objects you don't recognize. Stick with the planets you know the symbol for now (this is advanced stuff).
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-29 at 10.42.03 PM.png>)

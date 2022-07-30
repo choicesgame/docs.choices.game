@@ -1,6 +1,6 @@
-# Manifesting
+# Materializing
 
-#### Manifesting is the act of making use of your, or someone's, _will_ together with the _four forces_ of nature to materialize a desired outcome.
+#### Materializing is the act of making use of your, or someone's, _will,_ together with the _four forces_ of nature to manifest a desired outcome.
 
 
 

@@ -21,7 +21,7 @@ description: Powers we have seen in the wild.
 ## 2. Prophecy
 
 * The ability to know/feel for sure what's going to happen.&#x20;
-* It can be expressed by the individual's own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
+* It can be expressed by the individual's own creative languages (not only words, but images, colors, smells, sensations, pattern recognition, etc.).
 * Impressive skills in reading Tarot cards, astrology, or other divination tools.
 * Can be manifest through prophetic dreams.
 * Usually developed by highly intelligent individuals.

@@ -15,6 +15,7 @@
 * The ability to know/feel for sure what's going to happen.&#x20;
 * It can be manifested by the individuals own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
 * Impressive skills reading Tarot cards or other divination tools.
+* Can be manifest through prophetic dreams.
 * Usually developed by high intelligent individuals.
 
 ### Geomantic empathy

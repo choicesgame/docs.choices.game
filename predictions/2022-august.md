@@ -13,7 +13,8 @@
 ### Why Taurus is 😬 here
 
 * Mars is exile in Taurus, which means being in the one sign that you are not "very comfortable", or like on "foreign lands". What is the meaning of it (if all) in this context, we all will be able to learn soon.
-* Taurus represents fixed earthy resources.
+* Taurus represents fixed earthy resources.&#x20;
+* Uncertain correlation: its ruler, Venus, is also at 18 degrees, on a trine (which is kinda positive, helping things out).&#x20;
 
 
 

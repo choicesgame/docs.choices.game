@@ -7,7 +7,7 @@
 * **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon).
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think serendipitous sudden changes, or Aquarius vibes).
 * **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes).
-* At a Δ3 degrees, Saturn is squaring everyone 😱 (and conjunct to the White Lilith).
+* At a Δ3 degrees, **Saturn** is squaring everyone 😱 (and conjunct to the White Lilith).
 
 ###
 

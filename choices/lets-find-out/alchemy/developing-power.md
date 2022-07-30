@@ -6,6 +6,12 @@
 
 ### Empathy
 
+* The ability to read other peoples' mind and/or feelings and predict their actions.
+* Lots of ups and downs until you control your own mind and learn to keep a shield.
+* Superior skills reading Tarot cards.
+
+### Prophecy
+
 
 
 ### Geomantic empathy
@@ -14,7 +20,7 @@
 
 ### Fire manipulation
 
-* the ability to create, sustain, contain, and vanish fire flames with your thoughts.
+* The ability to create, sustain, contain, and vanish fire flames with your thoughts.
 
 ### Animal taming
 

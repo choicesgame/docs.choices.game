@@ -13,16 +13,16 @@ description: Powers we have seen in the wild.
 ## 1. Empathy
 
 * The ability to read other peoples' mind and/or feelings and predict their actions.
-* The classical constant feelings of ups and downs (until you control your own mind and learn to keep a shield).
-* Impressive skills reading in Tarot cards, astrology, or other divination tools.
+* The _classical_ "constant feelings of ups and downs" (until you control your own mind and learn to keep a shield).
+* Impressive skills in readingTarot cards, astrology, or other divination tools.
 
 
 
 ## 2. Prophecy
 
 * The ability to know/feel for sure what's going to happen.&#x20;
-* It can be manifested by the individuals own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
-* Impressive skills reading in Tarot cards, astrology, or other divination tools.
+* It can be manifested by the individual's own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
+* Impressive skills in reading Tarot cards, astrology, or other divination tools.
 * Can be manifest through prophetic dreams.
 * Usually developed by highly intelligent individuals.
 
@@ -46,13 +46,13 @@ description: Powers we have seen in the wild.
   * calling their presence with your thoughts
   * receive warnings or messages from them
   * having them following you or interacting with your thoughts
-* You have lots of empathy for animal, you are vegan or vegetarian, the smell of dead animals makes you feel sick, the idea of eating animal meat disgusts you.
+* You have lots of empathy for animal, you are vegan or vegetarian, the smell of dead animals makes you feel sick, and the idea of eating animal meat disgusts you.
 
 
 
 ## 6. Spacial bending
 
-* The ability of drastically changing how you or things around you appear.
+* The ability to drastically change how you or things around you appear.
 * The ability to manipulate perception, from a small scale, to a broader permanent reality shifting.
 * The ability to create a show.
 
@@ -63,7 +63,7 @@ description: Powers we have seen in the wild.
 * The ability to understand steady time as a mere human construct.&#x20;
 * The ability to understand timelessness.
 * The ability to move through time in a non-constant speed.
-* The ability of communicate to your past and future self.
+* The ability to communicate to your past and future self.
 * The ability to control the speed of time is perceived, on a personal and larger scale.
 
 

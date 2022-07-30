@@ -15,6 +15,6 @@ You can use artifacts and rituals to work on your shielding (such as sage, epson
 Here are some ideas to get started:
 
 1. if you can, just cut the cord out: physically block, remove, unfollow.
-2. If you can't physically remove the influence for now, make a plan to be able to do this in the future. Do not stay in a situation that chronically attacks your well-being and your free will.
+2. If you can't physically remove the influence for now, make a plan to be able to do this in the future. Do not stay on a situation that chronically attacks your well-being and your free will.
 3. Realize your mind's inertia: every time this person or energy appears inside your mind, acknowledge it and then, gently, move away to your own thoughts and happy spaces.
 4. Things might change later, and you might review and reshape your shielding. Don't worry about it now; protect what needs to be shielded from now.

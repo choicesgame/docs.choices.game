@@ -14,14 +14,14 @@ description: Powers we have seen in the wild.
 
 * The ability to read other peoples' mind and/or feelings and predict their actions.
 * The _classical_ "constant feelings of ups and downs" (until you control your own mind and learn to keep a shield).
-* Impressive skills in readingTarot cards, astrology, or other divination tools.
+* Impressive skills in reading Tarot cards, astrology, or other divination tools.
 
 
 
 ## 2. Prophecy
 
 * The ability to know/feel for sure what's going to happen.&#x20;
-* It can be manifested by the individual's own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
+* It can be expressed by the individual's own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
 * Impressive skills in reading Tarot cards, astrology, or other divination tools.
 * Can be manifest through prophetic dreams.
 * Usually developed by highly intelligent individuals.

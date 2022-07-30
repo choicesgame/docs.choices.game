@@ -114,6 +114,7 @@
     * [The Four Elements](choices/lets-find-out/alchemy/the-four-elements.md)
     * [Materializing](choices/lets-find-out/alchemy/materializing.md)
     * [Free Will, Will, and Magick](choices/lets-find-out/alchemy/free-will-will-and-magick.md)
+    * [Developing power](choices/lets-find-out/alchemy/developing-power.md)
     * [Alchemy in History](choices/lets-find-out/alchemy/alchemy-in-history.md)
     * [Resources](choices/lets-find-out/alchemy/references-and-resources.md)
   * [🔎 Tarot](choices/lets-find-out/tarot/README.md)

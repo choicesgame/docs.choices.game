@@ -1,13 +1,13 @@
 # 2022; August
 
-### 08/02: a generational <mark style="color:green;">**gnarly Conjunction of Uranus, Mars, and the North Node**</mark> 18 degrees in Taurus.
+## 08/02: a generational <mark style="color:green;">**gnarly Conjunction of Uranus, Mars, and the North Node**</mark> 18 degrees in Taurus.
 
-* North Node expands with restrictions (think jupiter marries saturn, or wheel of fortune); uranus is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes); and mars is the good ol' aggression/yang energy representation.
+* North Node expands with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune"); Uranus is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes); and Mars is the good ol' aggression/yang energy representation.
 * The rarity of this combination at 18 degrees angle in Taurus is around 3000 years, which can be estimated by simply multiplying the planets' returning times:
   * Uranus: 84.01 years
   * Mars: 1.88 years
   * North Node: \~19 years.
-* Without such an exact conjunction, the rarity of them all in Taurus, can be estimated by simply checking how long a planet spends in each sign (or, at minimum, around 120 years):
+* Without such exact conjunction, the rarity of them all in Taurus, can be estimated by simply checking how long a planet spends in each sign (or, at minimum, around 120 years):
   * Uranus spends 7 years in a sign
   * Mars spends 6-7 weeks in a sign
   * North Node spends 18 months in a sign

@@ -41,12 +41,16 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
 ## Reality bending
 
 * The ability to manipulate perception, from a small scale, to a broader permanent reality shifting.
+* The ability to create a show.
 
 
 
 ## Time bending
 
-* The ability
+* The ability to understand steady time as a mere human construct.&#x20;
+* The ability to understand timelessness.
+* The ability to move through time.
+* The ability to control the speed of time is perceived, in a personal and larger scale.
 
 
 

@@ -2,7 +2,7 @@
 
 ## 08/02: a generational <mark style="color:green;">**gnarly Conjunction of Uranus + Mars + the North Node**</mark> at 18 degrees, in Taurus.
 
-### How do I interpret the "planets"
+### [How do I interpret the "planets"](../play/the-astrologue-game.md)
 
 * **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon).
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think serendipitous sudden changes, or Aquarius vibes).

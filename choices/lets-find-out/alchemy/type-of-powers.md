@@ -22,13 +22,19 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
 * Can be manifest through prophetic dreams.
 * Usually developed by highly intelligent individuals.
 
+
+
 ## Geomantic empathy
 
 * The ability to feel places.
 
+
+
 ## Fire manipulation
 
 * The ability to create, sustain, contain, and vanish fire flames with your thoughts.
+
+
 
 ## Animal taming
 
@@ -37,6 +43,8 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
   * receive warnings or messages from them
   * having them following you or interacting with your thoughts
 * You have lots of empathy for animal, you are vegan or vegetarian, the smell of dead animals makes you feel sick, the idea of eating animal meat disgusts you.
+
+
 
 ## Reality bending
 

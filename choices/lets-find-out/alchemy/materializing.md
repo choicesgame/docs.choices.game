@@ -1,6 +1,6 @@
 # Materializing
 
-> #### 💡 <mark style="color:purple;">**Materializing is the act of making use of your, or someone's,**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**will,**</mark>_<mark style="color:purple;">** **</mark><mark style="color:purple;">**together with the**</mark><mark style="color:purple;">** **</mark>_<mark style="color:purple;">**four forces**</mark>_<mark style="color:purple;">** **</mark><mark style="color:purple;">**of nature to manifest a desired outcome.**</mark>
+> #### _💡 <mark style="color:purple;">**Materializing is the act of making use of your, or someone's, will, together with the four forces of nature to manifest a desired outcome.**</mark>_
 
 ### The One Only Rule for Materializing
 

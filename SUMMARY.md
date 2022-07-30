@@ -106,7 +106,7 @@
     * [Predictions](choices/astrology/making-predictions.md)
       * [Predicting Kurt Cobain's Life and Death](choices/astrology/making-predictions/predicting-kurt-cobains-life-and-death.md)
     * [Astrology in History](choices/astrology/astrology-in-history.md)
-    * [Carl Jung's View](choices/lets-find-out/astrology/carl-jungs-view.md)
+    * [Carl Jung's research](choices/lets-find-out/astrology/carl-jungs-research.md)
     * [Free Will and Astrology](choices/astrology/free-will-and-astrology.md)
     * [Resources](choices/astrology/references-and-resources.md)
   * [🔥 Alchemy](choices/lets-find-out/alchemy/README.md)

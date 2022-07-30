@@ -141,3 +141,7 @@
 ## 🎩 contributing
 
 * [Add knowledge](contributing/add-knowledge.md)
+
+## 🔮 Predictions
+
+* [2022; August](predictions/2022-august.md)

@@ -38,4 +38,4 @@ Think:
   1. Look at where the "planets" are (which sign, angle, and what's around).
   2. Look at the type of lines among them: trines, square, opposition (don't worry yet about how many delta degrees, you will create your own intuition with experience).&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-07-29 at 9.53.27 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-07-29 at 10.42.03 PM.png>)

@@ -31,6 +31,16 @@
 
 
 
+### Other uncertain correlations
+
+We are curious to see how these are going to play out:
+
+* Sun is conjunct to Vertex (think a portal for a new person) and ceres (cycles, change of fortunes). All in Leo.
+* Path of fortune opposed to Leo, in Aquarius.
+* Lilith conjunct to Saturn in Aquarius. I like this one.
+
+
+
 ### Chart details
 
 * The chart configuration for the **exact time of this conjunction** (you can ignore houses number and As/Mc/Ic!) is shown below.

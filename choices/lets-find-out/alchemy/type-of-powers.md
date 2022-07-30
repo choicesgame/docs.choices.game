@@ -20,7 +20,7 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
 * It can be manifested by the individuals own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
 * Impressive skills reading in Tarot cards, astrology, or other divination tools.
 * Can be manifest through prophetic dreams.
-* Usually developed by high intelligent individuals.
+* Usually developed by highly intelligent individuals.
 
 ## Geomantic empathy
 
@@ -36,7 +36,7 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
   * calling their presence with your thoughts
   * receive warnings or messages from them
   * having them following you or interacting with your thoughts
-* You have lots of empathy for animal, you are vegan or vegetarian, the smell of death animals makes you feel sick, the idea of eating animal meat disgusts you.
+* You have lots of empathy for animal, you are vegan or vegetarian, the smell of dead animals makes you feel sick, the idea of eating animal meat disgusts you.
 
 ## Reality bending
 
@@ -50,7 +50,7 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
 * The ability to understand steady time as a mere human construct.&#x20;
 * The ability to understand timelessness.
 * The ability to move through time.
-* The ability to control the speed of time is perceived, in a personal and larger scale.
+* The ability to control the speed of time is perceived, on a personal and larger scale.
 
 
 

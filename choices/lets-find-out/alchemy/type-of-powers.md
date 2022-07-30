@@ -4,13 +4,13 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
 
 
 
-> <mark style="color:purple;">**💡 Remember the one only rule of magick: you do not mess with/change/force other's will. Anything else is valid.**</mark>
+> <mark style="color:purple;">**💡 Remember the one only rule of magick: you do not mess with/change/force others will. Anything else is valid.**</mark>
 
 ## Empathy
 
 * The ability to read other peoples' mind and/or feelings and predict their actions.
 * Lots of ups and downs until you control your own mind and learn to keep a shield.
-* Impressive skills reading Tarot cards, astrology, or other divination tools.
+* Impressive skills reading in Tarot cards, astrology, or other divination tools.
 
 
 
@@ -18,7 +18,7 @@ Psychic powers come from tuning into certain frequencies in this reality. Predis
 
 * The ability to know/feel for sure what's going to happen.&#x20;
 * It can be manifested by the individuals own creative languages (e.g.,  instead of words, images, colors, sensations, symmetry, etc.).
-* Impressive skills reading Tarot cards, astrology, or other divination tools.
+* Impressive skills reading in Tarot cards, astrology, or other divination tools.
 * Can be manifest through prophetic dreams.
 * Usually developed by high intelligent individuals.
 

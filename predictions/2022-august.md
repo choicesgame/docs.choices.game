@@ -3,7 +3,7 @@
 ## 08/02: a generational <mark style="color:green;">**gnarly Conjunction of Uranus + Mars + the North Node**</mark> at 18 degrees, in Taurus.
 
 * **North Node** expands with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune"); **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes); and **Mars** is the good ol' aggression/yang energy warrior.
-* The rarity of this combination at 18 degrees angle in Taurus is around 3000 years, which can be estimated by simply multiplying the planets' returning times:
+* The **rarity** of this combination at 18 degrees in Taurus is \~3000 years, which can be estimated by simply multiplying the planets' returning times:
   * Uranus: 84.01 years
   * Mars: 1.88 years
   * North Node: \~19 years.

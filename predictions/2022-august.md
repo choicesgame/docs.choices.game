@@ -6,9 +6,9 @@
 
 Think:
 
-* **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon)
-* **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes, or Aquarius vibes)
-* **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes)
+* **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon).
+* **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes, or Aquarius vibes).
+* **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes).
 
 ### Why Taurus is 😬 here
 
@@ -29,6 +29,9 @@ Think:
 
 ### More details
 
-* The chart configuration for the **exact time of this conjunction** (ignore houses number and As/Mc/Ic):
+* The chart configuration for the **exact time of this conjunction** (ignore houses number and As/Mc/Ic) is shown below.
+* For beginners:
+  1. Look at where the planets are (which sign, angle, and what's around).
+  2. Look at the type of lines among them: trines, square, opposition (don't worry yet about how many degrees delta, you will create your own intuition on it).&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-29 at 9.53.27 PM.png>)

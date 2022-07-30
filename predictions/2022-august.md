@@ -10,6 +10,10 @@ Think:
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes, or Aquarius vibes)
 * **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes)
 
+### Why Taurus is 😬 here
+
+* Mars is exile in Taurus, which means being in the one sign that you are not "very comfortable", or like on "foreign lands". What is the meaning of it (if all) in this context, we all will be able to learn soon.
+
 ### How rare is it?
 
 * The **rarity** of this combination at 18 degrees in Taurus is \~3000 years, which can be estimated by simply **multiplying the planets' returning times** (revolution period):

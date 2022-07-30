@@ -10,9 +10,13 @@ Think:
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes, or Aquarius vibes).
 * **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes).
 
+###
+
 ### Why Taurus is 😬 here
 
 * Mars is exile in Taurus, which means being in the one sign that you are not "very comfortable", or like on "foreign lands". What is the meaning of it (if all) in this context, we all will be able to learn soon.
+
+
 
 ### How rare is it?
 
@@ -27,11 +31,11 @@ Think:
 
 
 
-### More details
+### Chart details
 
-* The chart configuration for the **exact time of this conjunction** (ignore houses number and As/Mc/Ic) is shown below.
+* The chart configuration for the **exact time of this conjunction** (you can ignore houses number and As/Mc/Ic!) is shown below.
 * For beginners:
-  1. Look at where the planets are (which sign, angle, and what's around).
-  2. Look at the type of lines among them: trines, square, opposition (don't worry yet about how many degrees delta, you will create your own intuition on it).&#x20;
+  1. Look at where the "planets" are (which sign, angle, and what's around).
+  2. Look at the type of lines among them: trines, square, opposition (don't worry yet about how many delta degrees, you will create your own intuition with experience).&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-29 at 9.53.27 PM.png>)

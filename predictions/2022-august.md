@@ -11,6 +11,6 @@
   * Uranus spends 7 years in a sign
   * Mars spends 6-7 weeks in a sign
   * North Node spends 18 months in a sign
-* Chart configuration for the exact Conjunction (ignore houses number):
+* Chart configuration for the exact time of this conjunction (ignore houses number and As/Mc/Ic):
 
 ![](<../.gitbook/assets/Screen Shot 2022-07-29 at 9.53.27 PM.png>)

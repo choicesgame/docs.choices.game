@@ -24,7 +24,7 @@
 * The **rarity** of this combination at 18 degrees in Taurus is \~3000 years, which can be estimated by simply **multiplying the planets' returning times** (revolution period):
   * Uranus: 84.01 years
   * Mars: 1.88 years
-  * North Node: \~19 years.
+  * North Node: \~19 years
 * Without such exact conjunction, the **rarity** of them all chillin' in Taurus can be estimated by simply checking **how long a planet spends in each** sign (or, at minimum, around 120 years):
   * Uranus: 7 years in a sign
   * Mars: 6-7 weeks in a sign

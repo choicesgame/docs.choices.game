@@ -1,3 +1,3 @@
-# Carl Jung's View
+# Carl Jung's research
 
 ##

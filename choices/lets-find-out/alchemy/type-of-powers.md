@@ -1,5 +1,11 @@
 # Type of powers
 
+Psychic powers come from tuning into certain frequencies in this reality. Predisposition to abilities is described in your birth chart configuration, but how you work them out might be the very representation of your free will in this reality.
+
+
+
+> <mark style="color:purple;">**💡 Remember the one only rule of magick: you do not mess with/change/force other's will. Anything else is valid.**</mark>
+
 ## Empathy
 
 * The ability to read other peoples' mind and/or feelings and predict their actions.
@@ -31,3 +37,16 @@
   * receive warnings or messages from them
   * having them following you or interacting with your thoughts
 * You have lots of empathy for animal, you are vegan or vegetarian, the smell of death animals makes you feel sick, the idea of eating animal meat disgusts you.
+
+## Reality bending
+
+* The ability to manipulate perception, from a small scale, to a broader permanent reality shifting.
+
+
+
+## Time bending
+
+* The ability
+
+
+

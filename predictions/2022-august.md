@@ -6,7 +6,7 @@
 
 Think:
 
-* **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the dragon)
+* **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon)
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think mysterious sudden changes, or Aquarius vibes)
 * **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes)
 

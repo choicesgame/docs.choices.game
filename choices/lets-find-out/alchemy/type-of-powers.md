@@ -9,7 +9,7 @@
 ## 1. Empathy
 
 * The ability to read other peoples' mind and/or feelings and predict their actions.
-* Lots of ups and downs until you control your own mind and learn to keep a shield.
+* The classical constant feelings of ups and downs (until you control your own mind and learn to keep a shield).
 * Impressive skills reading in Tarot cards, astrology, or other divination tools.
 
 

@@ -7,6 +7,7 @@
 * **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon).
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think serendipitous sudden changes, or Aquarius vibes).
 * **Mars** is the good ol' aggression/yang energy warrior (think forceful movement, or cardinal/catalytic Fire, or ofc Aries vibes).
+* At a Δ3 degrees, Saturn is squaring everyone 😱 (and conjunct to the White Lilith).
 
 ###
 
@@ -38,9 +39,7 @@ We are curious to see how these are going to play out:
 * Sun is conjunct to Vertex (think a portal for a new person) and ceres (cycles, change of fortunes). All in Leo.&#x20;
 * Sun trining Jupiter and Chiron (think "being helped"/expanded by Jupiter and accelerating healing with Chiron).
 * Path of fortune opposed to Leo, in Aquarius.
-* Lilith conjunct to Saturn in Aquarius. I like this one.
 * Moon in Virgo, which is being trined/helped by Pluto and opposed to Juno (female guardian angel and also the shade of Pluto; Juno is also conjunct to Neptune). Cute.
-*
 
 
 

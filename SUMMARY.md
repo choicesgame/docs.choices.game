@@ -113,6 +113,7 @@
     * [Understanding "Energy"](choices/lets-find-out/alchemy/energy.md)
     * [The Four Elements](choices/lets-find-out/alchemy/the-four-elements.md)
     * [Type of powers](choices/lets-find-out/alchemy/type-of-powers.md)
+    * [Shielding](choices/lets-find-out/alchemy/shielding.md)
     * [Materializing](choices/lets-find-out/alchemy/materializing.md)
     * [Free Will, Will, and Magick](choices/lets-find-out/alchemy/free-will-will-and-magick.md)
     * [Alchemy in History](choices/lets-find-out/alchemy/alchemy-in-history.md)

@@ -31,7 +31,7 @@
 
 
 
-### Other uncertain correlations
+### Other uncertain correlations (advanced)
 
 We are curious to see how these are going to play out:
 
@@ -39,7 +39,7 @@ We are curious to see how these are going to play out:
 * Sun trining Jupiter and Chiron (think "being helped"/expanded by Jupiter and accelerating healing with Chiron).
 * Path of fortune opposed to Leo, in Aquarius.
 * Lilith conjunct to Saturn in Aquarius. I like this one.
-* Moon in Virgo, which is opposed to June and being trined by Pluto.
+* Moon in Virgo, which is being trined/helped by Pluto and opposed to June (female guardian angel and also the shade of Pluto). Cute.
 *
 
 

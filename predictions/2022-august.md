@@ -15,7 +15,7 @@
 
 * Mars is exile in Taurus, which means being in the one sign that you are not "very comfortable", or like on "foreign lands". What is the meaning of it (if all) in this context, we all will be able to learn soon.
 * Taurus represents fixed earthy resources.&#x20;
-* Uncertain correlation: its ruler, Venus, is also at 18 degrees, on a trine (which is kinda positive, helping things out).&#x20;
+* Uncertain correlation: its ruler, Venus, is also at 18 degrees, but not making any relevant aspect (which might be kinda positive, helping things out, but unsure).&#x20;
 
 
 
@@ -39,7 +39,7 @@ We are curious to see how these are going to play out:
 * Sun is conjunct to Vertex (think a portal for a new person) and ceres (cycles, change of fortunes). All in Leo.&#x20;
 * Sun trining Jupiter and Chiron (think "being helped"/expanded by Jupiter and accelerating healing with Chiron).
 * Path of fortune opposed to Leo, in Aquarius.
-* Moon in Virgo, which is being trined/helped by Pluto and opposed to Juno (female guardian angel and also the shade of Pluto; Juno is also conjunct to Neptune). Cute.
+* Moon in Virgo, which is being trined/helped by Pluto and opposed by Juno (female guardian angel and also the shade of Pluto; Juno is also conjunct to Neptune). Cute.
 
 
 

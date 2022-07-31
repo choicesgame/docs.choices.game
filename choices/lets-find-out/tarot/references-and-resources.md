@@ -21,5 +21,7 @@ description: List of resources if you would like learn more.
 
 
 
-##
+## Experts
+
+* [**Taroverse**](https://www.youtube.com/c/Taroverse/)****
 

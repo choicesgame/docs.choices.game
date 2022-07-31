@@ -15,7 +15,7 @@ description: Powers we have seen in the wild.
 * The ability to read other peoples' mind and/or feelings and predict their actions.
 * The _classical_ "constant feelings of ups and downs" (until you control your own mind and learn to keep a shield).
 * Impressive skills in reading Tarot cards, astrology, or other self-realization tools.
-* Weak minds could be torn apart if this skill is not well-managed. On the other hand, if fine tuned, it can be developed on remote viewing or/and prophetic skills.
+* Weak minds could be torn apart if this skill is not well-managed. On the other hand, if fine-tuned, it can be developed on remote viewing or/and prophetic skills.
 
 
 
@@ -67,8 +67,8 @@ description: Powers we have seen in the wild.
 
 ## 7. Temporal bending
 
-* The ability to understand steady time as a mere human construct, i.e. comprehension of _timelessness_.
-* The ability to move through time in a non-constant speed.
+* The ability to understand steady time as a mere human construct, i.e., comprehension of _timelessness_.
+* The ability to move through time at a non-constant speed.
 * The ability to communicate to your past and future self.
 * The ability to control the speed of time is perceived, on a personal and larger scale.
 

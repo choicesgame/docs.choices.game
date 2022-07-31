@@ -19,9 +19,7 @@ description: List of resources if you would like learn more.
 * **The Tarot Reader, B.C. Austen**
 * **The Symbols of Tarot, L. Ashonosheni**
 
-## Experts
 
-* [**Taroverse**](https://www.youtube.com/c/Taroverse/videos)****
 
 ##
 

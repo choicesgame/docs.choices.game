@@ -115,7 +115,7 @@
     * [Types of Powers](choices/lets-find-out/alchemy/types-of-powers.md)
     * [Shielding](choices/lets-find-out/alchemy/shielding.md)
     * [Materializing](choices/lets-find-out/alchemy/materializing.md)
-    * [Timed Celebrations](choices/lets-find-out/alchemy/materializing-1.md)
+    * [Cyclic celebrations](choices/lets-find-out/alchemy/materializing-1.md)
     * [Numbers and Symmetries](choices/lets-find-out/alchemy/numbers-and-symmetries.md)
     * [Free Will, Will, and Magick](choices/lets-find-out/alchemy/free-will-will-and-magick.md)
     * [Alchemy in History](choices/lets-find-out/alchemy/alchemy-in-history.md)

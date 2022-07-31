@@ -51,13 +51,13 @@ description: Powers we have seen in the wild.
   * calling their presence with your thoughts
   * receive warnings or messages from them
   * having them following you or interacting with your thoughts
-* Usually developed by individuals that are naturally a vegan or vegetarian:
+* Usually developed by individuals that are naturally vegan or vegetarian:
   * the smell of dead animals makes them feel sick
   * the idea of eating animal meat makes them sick
 
 
 
-## 6. Spacial bending
+## 6. Spatial bending
 
 * The ability to drastically change how people or things appear.
 * The ability to manipulate perception, from a small scale, to a broader permanent reality shifting.

@@ -123,6 +123,7 @@
   * [🔎 Tarot](choices/lets-find-out/tarot/README.md)
     * [The Major Arcanas](choices/lets-find-out/tarot/the-major-arcanas.md)
     * [The Minor Arcanas](choices/lets-find-out/tarot/the-minor-arcanas.md)
+    * [Meditation](choices/lets-find-out/tarot/meditation.md)
     * [Tarot Spreads](choices/lets-find-out/tarot/the-spreads/README.md)
       * [The Past, Present, and Future Spread](choices/lets-find-out/tarot/the-spreads/the-past-present-and-future-spread.md)
       * [The Celtic Cross Spread](choices/lets-find-out/tarot/the-spreads/the-celtic-cross-spread.md)

@@ -1,10 +1,12 @@
 ---
-description: Powers we have seen in the wild.
+description: This page is authored by MAA research.
 ---
 
 # Types of Powers
 
 **Psychic powers come from tuning into certain frequencies in this reality. Predisposition to abilities is described in your birth chart configuration, but how you work them out might be the very representation of your free will in this reality.**
+
+**Below is a list of powers we have seen in the wild.**
 
 
 

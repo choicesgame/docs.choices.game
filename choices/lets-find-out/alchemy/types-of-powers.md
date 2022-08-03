@@ -53,7 +53,7 @@ description: Powers we have seen in the wild.
   * having them following you or interacting with your thoughts
 * Usually developed by individuals that are naturally vegan or vegetarian:
   * the smell of dead animals makes them feel sick
-  * the idea of eating animal meat makes them sick
+  * the idea of eating animal meat makes them feel sick
 
 
 

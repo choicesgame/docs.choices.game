@@ -112,7 +112,7 @@
   * [🔥 Alchemy](choices/lets-find-out/alchemy/README.md)
     * [Understanding "Energy"](choices/lets-find-out/alchemy/energy.md)
     * [The Four Elements](choices/lets-find-out/alchemy/the-four-elements.md)
-    * [Types of Powers](choices/lets-find-out/alchemy/types-of-powers.md)
+    * [Type of Powers](choices/lets-find-out/alchemy/type-of-powers.md)
     * [Shielding](choices/lets-find-out/alchemy/shielding.md)
     * [Materializing](choices/lets-find-out/alchemy/materializing.md)
     * [Cyclic celebrations](choices/lets-find-out/alchemy/materializing-1.md)

@@ -2,9 +2,11 @@
 description: This page is authored by MAA research.
 ---
 
-# Types of Powers
+# Type of Powers
 
 **Psychic powers come from tuning into certain frequencies in this reality. Predisposition to abilities is described in your birth chart configuration, but how you work them out might be the very representation of your free will in this reality.**
+
+****
 
 **Below is a list of powers we have seen in the wild.**
 
@@ -17,7 +19,7 @@ description: This page is authored by MAA research.
 * The ability to read other peoples' mind and/or feelings and predict their actions.
 * The _classical_ "constant feelings of ups and downs" (until you control your own mind and learn to keep a shield).
 * Impressive skills in reading Tarot cards, astrology, or other self-realization tools.
-* Weak minds could be torn apart if this skill is not well-managed. On the other hand, if fine-tuned, this skill could be developed to remote viewing or/and prophetic skills.
+* Weak minds could be torn apart if this skill is not well-managed. On the other hand, if fine-tuned, this skill could be developed into remote viewing or/and prophetic skills.
 
 
 
